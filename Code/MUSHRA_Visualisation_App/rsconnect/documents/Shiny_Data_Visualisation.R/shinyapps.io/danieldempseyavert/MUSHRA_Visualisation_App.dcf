@@ -1,0 +1,13 @@
+name: MUSHRA_Visualisation_App
+title: MUSHRA_Visualisation_App
+username:
+account: danieldempseyavert
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5059905
+bundleId: 5282651
+url: https://danieldempseyavert.shinyapps.io/MUSHRA_Visualisation_App/
+when: 1637628401.6421
+lastSyncTime: 1637628401.64212
+asMultiple: FALSE
+asStatic: FALSE

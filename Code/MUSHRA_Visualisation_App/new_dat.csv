@@ -1,0 +1,2186 @@
+test,subject,stimulus,result,section,signal_type,source,stimulus_signal
+test_1,10,Passive,64,1,drums,horizontal,Passive_drums
+test_1,11,Passive,28,1,drums,horizontal,Passive_drums
+test_1,12,Passive,41,1,drums,horizontal,Passive_drums
+test_1,13,Passive,38,1,drums,horizontal,Passive_drums
+test_1,14,Passive,9,1,drums,horizontal,Passive_drums
+test_1,15,Passive,20,1,drums,horizontal,Passive_drums
+test_1,17,Passive,40,1,drums,horizontal,Passive_drums
+test_1,18,Passive,52,1,drums,horizontal,Passive_drums
+test_1,19,Passive,47,1,drums,horizontal,Passive_drums
+test_1,1,Passive,28,1,drums,horizontal,Passive_drums
+test_1,20,Passive,71,1,drums,horizontal,Passive_drums
+test_1,2,Passive,29,1,drums,horizontal,Passive_drums
+test_1,3,Passive,72,1,drums,horizontal,Passive_drums
+test_1,4,Passive,71,1,drums,horizontal,Passive_drums
+test_1,5,Passive,68,1,drums,horizontal,Passive_drums
+test_1,6,Passive,52,1,drums,horizontal,Passive_drums
+test_1,7,Passive,46,1,drums,horizontal,Passive_drums
+test_1,8,Passive,83,1,drums,horizontal,Passive_drums
+test_1,9,Passive,75,1,drums,horizontal,Passive_drums
+test_1,10,Anchor,34,1,drums,horizontal,Anchor_drums
+test_1,11,Anchor,0,1,drums,horizontal,Anchor_drums
+test_1,12,Anchor,0,1,drums,horizontal,Anchor_drums
+test_1,13,Anchor,10,1,drums,horizontal,Anchor_drums
+test_1,14,Anchor,0,1,drums,horizontal,Anchor_drums
+test_1,15,Anchor,0,1,drums,horizontal,Anchor_drums
+test_1,17,Anchor,0,1,drums,horizontal,Anchor_drums
+test_1,18,Anchor,21,1,drums,horizontal,Anchor_drums
+test_1,19,Anchor,23,1,drums,horizontal,Anchor_drums
+test_1,1,Anchor,12,1,drums,horizontal,Anchor_drums
+test_1,20,Anchor,0,1,drums,horizontal,Anchor_drums
+test_1,2,Anchor,12,1,drums,horizontal,Anchor_drums
+test_1,3,Anchor,43,1,drums,horizontal,Anchor_drums
+test_1,4,Anchor,33,1,drums,horizontal,Anchor_drums
+test_1,5,Anchor,32,1,drums,horizontal,Anchor_drums
+test_1,6,Anchor,31,1,drums,horizontal,Anchor_drums
+test_1,7,Anchor,31,1,drums,horizontal,Anchor_drums
+test_1,8,Anchor,35,1,drums,horizontal,Anchor_drums
+test_1,9,Anchor,49,1,drums,horizontal,Anchor_drums
+test_1,10,Hybrid,87,1,drums,horizontal,Hybrid_drums
+test_1,11,Hybrid,84,1,drums,horizontal,Hybrid_drums
+test_1,12,Hybrid,97,1,drums,horizontal,Hybrid_drums
+test_1,13,Hybrid,69,1,drums,horizontal,Hybrid_drums
+test_1,14,Hybrid,69,1,drums,horizontal,Hybrid_drums
+test_1,15,Hybrid,61,1,drums,horizontal,Hybrid_drums
+test_1,17,Hybrid,51,1,drums,horizontal,Hybrid_drums
+test_1,18,Hybrid,89,1,drums,horizontal,Hybrid_drums
+test_1,19,Hybrid,89,1,drums,horizontal,Hybrid_drums
+test_1,1,Hybrid,80,1,drums,horizontal,Hybrid_drums
+test_1,20,Hybrid,80,1,drums,horizontal,Hybrid_drums
+test_1,2,Hybrid,51,1,drums,horizontal,Hybrid_drums
+test_1,3,Hybrid,100,1,drums,horizontal,Hybrid_drums
+test_1,4,Hybrid,75,1,drums,horizontal,Hybrid_drums
+test_1,5,Hybrid,84,1,drums,horizontal,Hybrid_drums
+test_1,6,Hybrid,95,1,drums,horizontal,Hybrid_drums
+test_1,7,Hybrid,75,1,drums,horizontal,Hybrid_drums
+test_1,8,Hybrid,85,1,drums,horizontal,Hybrid_drums
+test_1,9,Hybrid,88,1,drums,horizontal,Hybrid_drums
+test_1,10,Active,87,1,drums,horizontal,Active_drums
+test_1,11,Active,85,1,drums,horizontal,Active_drums
+test_1,12,Active,97,1,drums,horizontal,Active_drums
+test_1,13,Active,94,1,drums,horizontal,Active_drums
+test_1,14,Active,93,1,drums,horizontal,Active_drums
+test_1,15,Active,80,1,drums,horizontal,Active_drums
+test_1,17,Active,56,1,drums,horizontal,Active_drums
+test_1,18,Active,88,1,drums,horizontal,Active_drums
+test_1,19,Active,75,1,drums,horizontal,Active_drums
+test_1,1,Active,89,1,drums,horizontal,Active_drums
+test_1,20,Active,80,1,drums,horizontal,Active_drums
+test_1,2,Active,51,1,drums,horizontal,Active_drums
+test_1,3,Active,74,1,drums,horizontal,Active_drums
+test_1,4,Active,77,1,drums,horizontal,Active_drums
+test_1,5,Active,95,1,drums,horizontal,Active_drums
+test_1,6,Active,99,1,drums,horizontal,Active_drums
+test_1,7,Active,94,1,drums,horizontal,Active_drums
+test_1,8,Active,91,1,drums,horizontal,Active_drums
+test_1,9,Active,80,1,drums,horizontal,Active_drums
+test_1,10,Reference,100,1,drums,horizontal,Reference_drums
+test_1,11,Reference,100,1,drums,horizontal,Reference_drums
+test_1,12,Reference,100,1,drums,horizontal,Reference_drums
+test_1,13,Reference,100,1,drums,horizontal,Reference_drums
+test_1,14,Reference,100,1,drums,horizontal,Reference_drums
+test_1,15,Reference,100,1,drums,horizontal,Reference_drums
+test_1,17,Reference,100,1,drums,horizontal,Reference_drums
+test_1,18,Reference,100,1,drums,horizontal,Reference_drums
+test_1,19,Reference,100,1,drums,horizontal,Reference_drums
+test_1,1,Reference,100,1,drums,horizontal,Reference_drums
+test_1,20,Reference,100,1,drums,horizontal,Reference_drums
+test_1,2,Reference,100,1,drums,horizontal,Reference_drums
+test_1,3,Reference,100,1,drums,horizontal,Reference_drums
+test_1,4,Reference,100,1,drums,horizontal,Reference_drums
+test_1,5,Reference,100,1,drums,horizontal,Reference_drums
+test_1,6,Reference,100,1,drums,horizontal,Reference_drums
+test_1,7,Reference,100,1,drums,horizontal,Reference_drums
+test_1,8,Reference,100,1,drums,horizontal,Reference_drums
+test_1,9,Reference,100,1,drums,horizontal,Reference_drums
+test_2,10,Passive,74,1,speech,horizontal,Passive_speech
+test_2,11,Passive,64,1,speech,horizontal,Passive_speech
+test_2,12,Passive,78,1,speech,horizontal,Passive_speech
+test_2,13,Passive,43,1,speech,horizontal,Passive_speech
+test_2,14,Passive,4,1,speech,horizontal,Passive_speech
+test_2,15,Passive,52,1,speech,horizontal,Passive_speech
+test_2,17,Passive,34,1,speech,horizontal,Passive_speech
+test_2,18,Passive,46,1,speech,horizontal,Passive_speech
+test_2,19,Passive,36,1,speech,horizontal,Passive_speech
+test_2,1,Passive,46,1,speech,horizontal,Passive_speech
+test_2,20,Passive,58,1,speech,horizontal,Passive_speech
+test_2,2,Passive,45,1,speech,horizontal,Passive_speech
+test_2,3,Passive,70,1,speech,horizontal,Passive_speech
+test_2,4,Passive,81,1,speech,horizontal,Passive_speech
+test_2,5,Passive,98,1,speech,horizontal,Passive_speech
+test_2,6,Passive,55,1,speech,horizontal,Passive_speech
+test_2,7,Passive,35,1,speech,horizontal,Passive_speech
+test_2,8,Passive,63,1,speech,horizontal,Passive_speech
+test_2,9,Passive,87,1,speech,horizontal,Passive_speech
+test_2,10,Anchor,70,1,speech,horizontal,Anchor_speech
+test_2,11,Anchor,29,1,speech,horizontal,Anchor_speech
+test_2,12,Anchor,79,1,speech,horizontal,Anchor_speech
+test_2,13,Anchor,37,1,speech,horizontal,Anchor_speech
+test_2,14,Anchor,0,1,speech,horizontal,Anchor_speech
+test_2,15,Anchor,0,1,speech,horizontal,Anchor_speech
+test_2,17,Anchor,7,1,speech,horizontal,Anchor_speech
+test_2,18,Anchor,23,1,speech,horizontal,Anchor_speech
+test_2,19,Anchor,46,1,speech,horizontal,Anchor_speech
+test_2,1,Anchor,50,1,speech,horizontal,Anchor_speech
+test_2,20,Anchor,81,1,speech,horizontal,Anchor_speech
+test_2,2,Anchor,29,1,speech,horizontal,Anchor_speech
+test_2,3,Anchor,44,1,speech,horizontal,Anchor_speech
+test_2,4,Anchor,61,1,speech,horizontal,Anchor_speech
+test_2,5,Anchor,94,1,speech,horizontal,Anchor_speech
+test_2,6,Anchor,34,1,speech,horizontal,Anchor_speech
+test_2,7,Anchor,30,1,speech,horizontal,Anchor_speech
+test_2,8,Anchor,36,1,speech,horizontal,Anchor_speech
+test_2,9,Anchor,39,1,speech,horizontal,Anchor_speech
+test_2,10,Hybrid,100,1,speech,horizontal,Hybrid_speech
+test_2,11,Hybrid,79,1,speech,horizontal,Hybrid_speech
+test_2,12,Hybrid,80,1,speech,horizontal,Hybrid_speech
+test_2,13,Hybrid,68,1,speech,horizontal,Hybrid_speech
+test_2,14,Hybrid,85,1,speech,horizontal,Hybrid_speech
+test_2,15,Hybrid,70,1,speech,horizontal,Hybrid_speech
+test_2,17,Hybrid,53,1,speech,horizontal,Hybrid_speech
+test_2,18,Hybrid,59,1,speech,horizontal,Hybrid_speech
+test_2,19,Hybrid,86,1,speech,horizontal,Hybrid_speech
+test_2,1,Hybrid,79,1,speech,horizontal,Hybrid_speech
+test_2,20,Hybrid,80,1,speech,horizontal,Hybrid_speech
+test_2,2,Hybrid,68,1,speech,horizontal,Hybrid_speech
+test_2,3,Hybrid,65,1,speech,horizontal,Hybrid_speech
+test_2,4,Hybrid,81,1,speech,horizontal,Hybrid_speech
+test_2,5,Hybrid,97,1,speech,horizontal,Hybrid_speech
+test_2,6,Hybrid,77,1,speech,horizontal,Hybrid_speech
+test_2,7,Hybrid,86,1,speech,horizontal,Hybrid_speech
+test_2,8,Hybrid,77,1,speech,horizontal,Hybrid_speech
+test_2,9,Hybrid,84,1,speech,horizontal,Hybrid_speech
+test_2,10,Active,85,1,speech,horizontal,Active_speech
+test_2,11,Active,78,1,speech,horizontal,Active_speech
+test_2,12,Active,92,1,speech,horizontal,Active_speech
+test_2,13,Active,67,1,speech,horizontal,Active_speech
+test_2,14,Active,71,1,speech,horizontal,Active_speech
+test_2,15,Active,69,1,speech,horizontal,Active_speech
+test_2,17,Active,62,1,speech,horizontal,Active_speech
+test_2,18,Active,80,1,speech,horizontal,Active_speech
+test_2,19,Active,87,1,speech,horizontal,Active_speech
+test_2,1,Active,79,1,speech,horizontal,Active_speech
+test_2,20,Active,73,1,speech,horizontal,Active_speech
+test_2,2,Active,68,1,speech,horizontal,Active_speech
+test_2,3,Active,84,1,speech,horizontal,Active_speech
+test_2,4,Active,81,1,speech,horizontal,Active_speech
+test_2,5,Active,97,1,speech,horizontal,Active_speech
+test_2,6,Active,91,1,speech,horizontal,Active_speech
+test_2,7,Active,86,1,speech,horizontal,Active_speech
+test_2,8,Active,77,1,speech,horizontal,Active_speech
+test_2,9,Active,79,1,speech,horizontal,Active_speech
+test_2,10,Reference,100,1,speech,horizontal,Reference_speech
+test_2,11,Reference,100,1,speech,horizontal,Reference_speech
+test_2,12,Reference,100,1,speech,horizontal,Reference_speech
+test_2,13,Reference,99,1,speech,horizontal,Reference_speech
+test_2,14,Reference,100,1,speech,horizontal,Reference_speech
+test_2,15,Reference,100,1,speech,horizontal,Reference_speech
+test_2,17,Reference,100,1,speech,horizontal,Reference_speech
+test_2,18,Reference,100,1,speech,horizontal,Reference_speech
+test_2,19,Reference,100,1,speech,horizontal,Reference_speech
+test_2,1,Reference,100,1,speech,horizontal,Reference_speech
+test_2,20,Reference,100,1,speech,horizontal,Reference_speech
+test_2,2,Reference,100,1,speech,horizontal,Reference_speech
+test_2,3,Reference,100,1,speech,horizontal,Reference_speech
+test_2,4,Reference,100,1,speech,horizontal,Reference_speech
+test_2,5,Reference,100,1,speech,horizontal,Reference_speech
+test_2,6,Reference,100,1,speech,horizontal,Reference_speech
+test_2,7,Reference,100,1,speech,horizontal,Reference_speech
+test_2,8,Reference,100,1,speech,horizontal,Reference_speech
+test_2,9,Reference,100,1,speech,horizontal,Reference_speech
+test_3,10,Passive,49,1,speech,horizontal,Passive_speech
+test_3,11,Passive,14,1,speech,horizontal,Passive_speech
+test_3,12,Passive,62,1,speech,horizontal,Passive_speech
+test_3,13,Passive,47,1,speech,horizontal,Passive_speech
+test_3,14,Passive,40,1,speech,horizontal,Passive_speech
+test_3,15,Passive,32,1,speech,horizontal,Passive_speech
+test_3,17,Passive,50,1,speech,horizontal,Passive_speech
+test_3,18,Passive,72,1,speech,horizontal,Passive_speech
+test_3,19,Passive,39,1,speech,horizontal,Passive_speech
+test_3,1,Passive,31,1,speech,horizontal,Passive_speech
+test_3,20,Passive,69,1,speech,horizontal,Passive_speech
+test_3,2,Passive,48,1,speech,horizontal,Passive_speech
+test_3,3,Passive,55,1,speech,horizontal,Passive_speech
+test_3,4,Passive,74,1,speech,horizontal,Passive_speech
+test_3,5,Passive,55,1,speech,horizontal,Passive_speech
+test_3,6,Passive,60,1,speech,horizontal,Passive_speech
+test_3,7,Passive,65,1,speech,horizontal,Passive_speech
+test_3,8,Passive,49,1,speech,horizontal,Passive_speech
+test_3,9,Passive,60,1,speech,horizontal,Passive_speech
+test_3,10,Anchor,29,1,speech,horizontal,Anchor_speech
+test_3,11,Anchor,0,1,speech,horizontal,Anchor_speech
+test_3,12,Anchor,0,1,speech,horizontal,Anchor_speech
+test_3,13,Anchor,23,1,speech,horizontal,Anchor_speech
+test_3,14,Anchor,0,1,speech,horizontal,Anchor_speech
+test_3,15,Anchor,0,1,speech,horizontal,Anchor_speech
+test_3,17,Anchor,0,1,speech,horizontal,Anchor_speech
+test_3,18,Anchor,39,1,speech,horizontal,Anchor_speech
+test_3,19,Anchor,20,1,speech,horizontal,Anchor_speech
+test_3,1,Anchor,11,1,speech,horizontal,Anchor_speech
+test_3,20,Anchor,0,1,speech,horizontal,Anchor_speech
+test_3,2,Anchor,33,1,speech,horizontal,Anchor_speech
+test_3,3,Anchor,32,1,speech,horizontal,Anchor_speech
+test_3,4,Anchor,65,1,speech,horizontal,Anchor_speech
+test_3,5,Anchor,31,1,speech,horizontal,Anchor_speech
+test_3,6,Anchor,9,1,speech,horizontal,Anchor_speech
+test_3,7,Anchor,31,1,speech,horizontal,Anchor_speech
+test_3,8,Anchor,32,1,speech,horizontal,Anchor_speech
+test_3,9,Anchor,30,1,speech,horizontal,Anchor_speech
+test_3,10,Hybrid,85,1,speech,horizontal,Hybrid_speech
+test_3,11,Hybrid,86,1,speech,horizontal,Hybrid_speech
+test_3,12,Hybrid,86,1,speech,horizontal,Hybrid_speech
+test_3,13,Hybrid,76,1,speech,horizontal,Hybrid_speech
+test_3,14,Hybrid,61,1,speech,horizontal,Hybrid_speech
+test_3,15,Hybrid,50,1,speech,horizontal,Hybrid_speech
+test_3,17,Hybrid,60,1,speech,horizontal,Hybrid_speech
+test_3,18,Hybrid,81,1,speech,horizontal,Hybrid_speech
+test_3,19,Hybrid,79,1,speech,horizontal,Hybrid_speech
+test_3,1,Hybrid,78,1,speech,horizontal,Hybrid_speech
+test_3,20,Hybrid,72,1,speech,horizontal,Hybrid_speech
+test_3,2,Hybrid,74,1,speech,horizontal,Hybrid_speech
+test_3,3,Hybrid,84,1,speech,horizontal,Hybrid_speech
+test_3,4,Hybrid,81,1,speech,horizontal,Hybrid_speech
+test_3,5,Hybrid,80,1,speech,horizontal,Hybrid_speech
+test_3,6,Hybrid,90,1,speech,horizontal,Hybrid_speech
+test_3,7,Hybrid,72,1,speech,horizontal,Hybrid_speech
+test_3,8,Hybrid,88,1,speech,horizontal,Hybrid_speech
+test_3,9,Hybrid,81,1,speech,horizontal,Hybrid_speech
+test_3,10,Active,86,1,speech,horizontal,Active_speech
+test_3,11,Active,85,1,speech,horizontal,Active_speech
+test_3,12,Active,91,1,speech,horizontal,Active_speech
+test_3,13,Active,76,1,speech,horizontal,Active_speech
+test_3,14,Active,81,1,speech,horizontal,Active_speech
+test_3,15,Active,70,1,speech,horizontal,Active_speech
+test_3,17,Active,68,1,speech,horizontal,Active_speech
+test_3,18,Active,81,1,speech,horizontal,Active_speech
+test_3,19,Active,71,1,speech,horizontal,Active_speech
+test_3,1,Active,84,1,speech,horizontal,Active_speech
+test_3,20,Active,80,1,speech,horizontal,Active_speech
+test_3,2,Active,74,1,speech,horizontal,Active_speech
+test_3,3,Active,71,1,speech,horizontal,Active_speech
+test_3,4,Active,81,1,speech,horizontal,Active_speech
+test_3,5,Active,79,1,speech,horizontal,Active_speech
+test_3,6,Active,90,1,speech,horizontal,Active_speech
+test_3,7,Active,72,1,speech,horizontal,Active_speech
+test_3,8,Active,100,1,speech,horizontal,Active_speech
+test_3,9,Active,81,1,speech,horizontal,Active_speech
+test_3,10,Reference,100,1,speech,horizontal,Reference_speech
+test_3,11,Reference,100,1,speech,horizontal,Reference_speech
+test_3,12,Reference,100,1,speech,horizontal,Reference_speech
+test_3,13,Reference,99,1,speech,horizontal,Reference_speech
+test_3,14,Reference,100,1,speech,horizontal,Reference_speech
+test_3,15,Reference,100,1,speech,horizontal,Reference_speech
+test_3,17,Reference,100,1,speech,horizontal,Reference_speech
+test_3,18,Reference,100,1,speech,horizontal,Reference_speech
+test_3,19,Reference,100,1,speech,horizontal,Reference_speech
+test_3,1,Reference,100,1,speech,horizontal,Reference_speech
+test_3,20,Reference,100,1,speech,horizontal,Reference_speech
+test_3,2,Reference,100,1,speech,horizontal,Reference_speech
+test_3,3,Reference,100,1,speech,horizontal,Reference_speech
+test_3,4,Reference,100,1,speech,horizontal,Reference_speech
+test_3,5,Reference,100,1,speech,horizontal,Reference_speech
+test_3,6,Reference,100,1,speech,horizontal,Reference_speech
+test_3,7,Reference,100,1,speech,horizontal,Reference_speech
+test_3,8,Reference,100,1,speech,horizontal,Reference_speech
+test_3,9,Reference,100,1,speech,horizontal,Reference_speech
+test_4,10,Passive,91,1,drums,horizontal,Passive_drums
+test_4,11,Passive,15,1,drums,horizontal,Passive_drums
+test_4,12,Passive,62,1,drums,horizontal,Passive_drums
+test_4,13,Passive,70,1,drums,horizontal,Passive_drums
+test_4,14,Passive,21,1,drums,horizontal,Passive_drums
+test_4,15,Passive,41,1,drums,horizontal,Passive_drums
+test_4,17,Passive,58,1,drums,horizontal,Passive_drums
+test_4,18,Passive,61,1,drums,horizontal,Passive_drums
+test_4,19,Passive,63,1,drums,horizontal,Passive_drums
+test_4,1,Passive,61,1,drums,horizontal,Passive_drums
+test_4,20,Passive,51,1,drums,horizontal,Passive_drums
+test_4,2,Passive,55,1,drums,horizontal,Passive_drums
+test_4,3,Passive,31,1,drums,horizontal,Passive_drums
+test_4,4,Passive,76,1,drums,horizontal,Passive_drums
+test_4,5,Passive,98,1,drums,horizontal,Passive_drums
+test_4,6,Passive,76,1,drums,horizontal,Passive_drums
+test_4,7,Passive,61,1,drums,horizontal,Passive_drums
+test_4,8,Passive,56,1,drums,horizontal,Passive_drums
+test_4,9,Passive,75,1,drums,horizontal,Passive_drums
+test_4,10,Anchor,70,1,drums,horizontal,Anchor_drums
+test_4,11,Anchor,25,1,drums,horizontal,Anchor_drums
+test_4,12,Anchor,20,1,drums,horizontal,Anchor_drums
+test_4,13,Anchor,69,1,drums,horizontal,Anchor_drums
+test_4,14,Anchor,0,1,drums,horizontal,Anchor_drums
+test_4,15,Anchor,20,1,drums,horizontal,Anchor_drums
+test_4,17,Anchor,12,1,drums,horizontal,Anchor_drums
+test_4,18,Anchor,50,1,drums,horizontal,Anchor_drums
+test_4,19,Anchor,59,1,drums,horizontal,Anchor_drums
+test_4,1,Anchor,61,1,drums,horizontal,Anchor_drums
+test_4,20,Anchor,59,1,drums,horizontal,Anchor_drums
+test_4,2,Anchor,47,1,drums,horizontal,Anchor_drums
+test_4,3,Anchor,53,1,drums,horizontal,Anchor_drums
+test_4,4,Anchor,75,1,drums,horizontal,Anchor_drums
+test_4,5,Anchor,96,1,drums,horizontal,Anchor_drums
+test_4,6,Anchor,58,1,drums,horizontal,Anchor_drums
+test_4,7,Anchor,26,1,drums,horizontal,Anchor_drums
+test_4,8,Anchor,51,1,drums,horizontal,Anchor_drums
+test_4,9,Anchor,62,1,drums,horizontal,Anchor_drums
+test_4,10,Hybrid,67,1,drums,horizontal,Hybrid_drums
+test_4,11,Hybrid,84,1,drums,horizontal,Hybrid_drums
+test_4,12,Hybrid,92,1,drums,horizontal,Hybrid_drums
+test_4,13,Hybrid,86,1,drums,horizontal,Hybrid_drums
+test_4,14,Hybrid,65,1,drums,horizontal,Hybrid_drums
+test_4,15,Hybrid,60,1,drums,horizontal,Hybrid_drums
+test_4,17,Hybrid,69,1,drums,horizontal,Hybrid_drums
+test_4,18,Hybrid,79,1,drums,horizontal,Hybrid_drums
+test_4,19,Hybrid,81,1,drums,horizontal,Hybrid_drums
+test_4,1,Hybrid,100,1,drums,horizontal,Hybrid_drums
+test_4,20,Hybrid,82,1,drums,horizontal,Hybrid_drums
+test_4,2,Hybrid,74,1,drums,horizontal,Hybrid_drums
+test_4,3,Hybrid,97,1,drums,horizontal,Hybrid_drums
+test_4,4,Hybrid,90,1,drums,horizontal,Hybrid_drums
+test_4,5,Hybrid,97,1,drums,horizontal,Hybrid_drums
+test_4,6,Hybrid,100,1,drums,horizontal,Hybrid_drums
+test_4,7,Hybrid,83,1,drums,horizontal,Hybrid_drums
+test_4,8,Hybrid,82,1,drums,horizontal,Hybrid_drums
+test_4,9,Hybrid,86,1,drums,horizontal,Hybrid_drums
+test_4,10,Active,89,1,drums,horizontal,Active_drums
+test_4,11,Active,54,1,drums,horizontal,Active_drums
+test_4,12,Active,91,1,drums,horizontal,Active_drums
+test_4,13,Active,85,1,drums,horizontal,Active_drums
+test_4,14,Active,70,1,drums,horizontal,Active_drums
+test_4,15,Active,80,1,drums,horizontal,Active_drums
+test_4,17,Active,82,1,drums,horizontal,Active_drums
+test_4,18,Active,71,1,drums,horizontal,Active_drums
+test_4,19,Active,84,1,drums,horizontal,Active_drums
+test_4,1,Active,86,1,drums,horizontal,Active_drums
+test_4,20,Active,71,1,drums,horizontal,Active_drums
+test_4,2,Active,79,1,drums,horizontal,Active_drums
+test_4,3,Active,98,1,drums,horizontal,Active_drums
+test_4,4,Active,90,1,drums,horizontal,Active_drums
+test_4,5,Active,97,1,drums,horizontal,Active_drums
+test_4,6,Active,94,1,drums,horizontal,Active_drums
+test_4,7,Active,86,1,drums,horizontal,Active_drums
+test_4,8,Active,82,1,drums,horizontal,Active_drums
+test_4,9,Active,87,1,drums,horizontal,Active_drums
+test_4,10,Reference,100,1,drums,horizontal,Reference_drums
+test_4,11,Reference,100,1,drums,horizontal,Reference_drums
+test_4,12,Reference,100,1,drums,horizontal,Reference_drums
+test_4,13,Reference,100,1,drums,horizontal,Reference_drums
+test_4,14,Reference,100,1,drums,horizontal,Reference_drums
+test_4,15,Reference,100,1,drums,horizontal,Reference_drums
+test_4,17,Reference,100,1,drums,horizontal,Reference_drums
+test_4,18,Reference,100,1,drums,horizontal,Reference_drums
+test_4,19,Reference,100,1,drums,horizontal,Reference_drums
+test_4,1,Reference,100,1,drums,horizontal,Reference_drums
+test_4,20,Reference,100,1,drums,horizontal,Reference_drums
+test_4,2,Reference,100,1,drums,horizontal,Reference_drums
+test_4,3,Reference,100,1,drums,horizontal,Reference_drums
+test_4,4,Reference,100,1,drums,horizontal,Reference_drums
+test_4,5,Reference,100,1,drums,horizontal,Reference_drums
+test_4,6,Reference,100,1,drums,horizontal,Reference_drums
+test_4,7,Reference,100,1,drums,horizontal,Reference_drums
+test_4,8,Reference,100,1,drums,horizontal,Reference_drums
+test_4,9,Reference,100,1,drums,horizontal,Reference_drums
+test_5,10,Passive,57,1,drums,elevated,Passive_drums
+test_5,11,Passive,75,1,drums,elevated,Passive_drums
+test_5,12,Passive,72,1,drums,elevated,Passive_drums
+test_5,13,Passive,50,1,drums,elevated,Passive_drums
+test_5,14,Passive,14,1,drums,elevated,Passive_drums
+test_5,15,Passive,41,1,drums,elevated,Passive_drums
+test_5,17,Passive,40,1,drums,elevated,Passive_drums
+test_5,18,Passive,79,1,drums,elevated,Passive_drums
+test_5,19,Passive,77,1,drums,elevated,Passive_drums
+test_5,1,Passive,76,1,drums,elevated,Passive_drums
+test_5,20,Passive,69,1,drums,elevated,Passive_drums
+test_5,2,Passive,50,1,drums,elevated,Passive_drums
+test_5,3,Passive,42,1,drums,elevated,Passive_drums
+test_5,4,Passive,87,1,drums,elevated,Passive_drums
+test_5,5,Passive,77,1,drums,elevated,Passive_drums
+test_5,6,Passive,66,1,drums,elevated,Passive_drums
+test_5,7,Passive,77,1,drums,elevated,Passive_drums
+test_5,8,Passive,55,1,drums,elevated,Passive_drums
+test_5,9,Passive,62,1,drums,elevated,Passive_drums
+test_5,10,Anchor,25,1,drums,elevated,Anchor_drums
+test_5,11,Anchor,0,1,drums,elevated,Anchor_drums
+test_5,12,Anchor,22,1,drums,elevated,Anchor_drums
+test_5,13,Anchor,37,1,drums,elevated,Anchor_drums
+test_5,14,Anchor,0,1,drums,elevated,Anchor_drums
+test_5,15,Anchor,0,1,drums,elevated,Anchor_drums
+test_5,17,Anchor,0,1,drums,elevated,Anchor_drums
+test_5,18,Anchor,0,1,drums,elevated,Anchor_drums
+test_5,19,Anchor,13,1,drums,elevated,Anchor_drums
+test_5,1,Anchor,11,1,drums,elevated,Anchor_drums
+test_5,20,Anchor,0,1,drums,elevated,Anchor_drums
+test_5,2,Anchor,13,1,drums,elevated,Anchor_drums
+test_5,3,Anchor,44,1,drums,elevated,Anchor_drums
+test_5,4,Anchor,49,1,drums,elevated,Anchor_drums
+test_5,5,Anchor,57,1,drums,elevated,Anchor_drums
+test_5,6,Anchor,28,1,drums,elevated,Anchor_drums
+test_5,7,Anchor,25,1,drums,elevated,Anchor_drums
+test_5,8,Anchor,38,1,drums,elevated,Anchor_drums
+test_5,9,Anchor,39,1,drums,elevated,Anchor_drums
+test_5,10,Hybrid,74,1,drums,elevated,Hybrid_drums
+test_5,11,Hybrid,55,1,drums,elevated,Hybrid_drums
+test_5,12,Hybrid,95,1,drums,elevated,Hybrid_drums
+test_5,13,Hybrid,77,1,drums,elevated,Hybrid_drums
+test_5,14,Hybrid,44,1,drums,elevated,Hybrid_drums
+test_5,15,Hybrid,61,1,drums,elevated,Hybrid_drums
+test_5,17,Hybrid,47,1,drums,elevated,Hybrid_drums
+test_5,18,Hybrid,61,1,drums,elevated,Hybrid_drums
+test_5,19,Hybrid,90,1,drums,elevated,Hybrid_drums
+test_5,1,Hybrid,60,1,drums,elevated,Hybrid_drums
+test_5,20,Hybrid,38,1,drums,elevated,Hybrid_drums
+test_5,2,Hybrid,31,1,drums,elevated,Hybrid_drums
+test_5,3,Hybrid,94,1,drums,elevated,Hybrid_drums
+test_5,4,Hybrid,71,1,drums,elevated,Hybrid_drums
+test_5,5,Hybrid,76,1,drums,elevated,Hybrid_drums
+test_5,6,Hybrid,93,1,drums,elevated,Hybrid_drums
+test_5,7,Hybrid,87,1,drums,elevated,Hybrid_drums
+test_5,8,Hybrid,77,1,drums,elevated,Hybrid_drums
+test_5,9,Hybrid,66,1,drums,elevated,Hybrid_drums
+test_5,10,Active,86,1,drums,elevated,Active_drums
+test_5,11,Active,53,1,drums,elevated,Active_drums
+test_5,12,Active,91,1,drums,elevated,Active_drums
+test_5,13,Active,78,1,drums,elevated,Active_drums
+test_5,14,Active,60,1,drums,elevated,Active_drums
+test_5,15,Active,20,1,drums,elevated,Active_drums
+test_5,17,Active,48,1,drums,elevated,Active_drums
+test_5,18,Active,61,1,drums,elevated,Active_drums
+test_5,19,Active,93,1,drums,elevated,Active_drums
+test_5,1,Active,48,1,drums,elevated,Active_drums
+test_5,20,Active,83,1,drums,elevated,Active_drums
+test_5,2,Active,31,1,drums,elevated,Active_drums
+test_5,3,Active,82,1,drums,elevated,Active_drums
+test_5,4,Active,72,1,drums,elevated,Active_drums
+test_5,5,Active,72,1,drums,elevated,Active_drums
+test_5,6,Active,89,1,drums,elevated,Active_drums
+test_5,7,Active,66,1,drums,elevated,Active_drums
+test_5,8,Active,56,1,drums,elevated,Active_drums
+test_5,9,Active,66,1,drums,elevated,Active_drums
+test_5,10,Reference,100,1,drums,elevated,Reference_drums
+test_5,11,Reference,100,1,drums,elevated,Reference_drums
+test_5,12,Reference,100,1,drums,elevated,Reference_drums
+test_5,13,Reference,100,1,drums,elevated,Reference_drums
+test_5,14,Reference,100,1,drums,elevated,Reference_drums
+test_5,15,Reference,100,1,drums,elevated,Reference_drums
+test_5,17,Reference,100,1,drums,elevated,Reference_drums
+test_5,18,Reference,100,1,drums,elevated,Reference_drums
+test_5,19,Reference,100,1,drums,elevated,Reference_drums
+test_5,1,Reference,100,1,drums,elevated,Reference_drums
+test_5,20,Reference,100,1,drums,elevated,Reference_drums
+test_5,2,Reference,100,1,drums,elevated,Reference_drums
+test_5,3,Reference,100,1,drums,elevated,Reference_drums
+test_5,4,Reference,100,1,drums,elevated,Reference_drums
+test_5,5,Reference,100,1,drums,elevated,Reference_drums
+test_5,6,Reference,100,1,drums,elevated,Reference_drums
+test_5,7,Reference,100,1,drums,elevated,Reference_drums
+test_5,8,Reference,100,1,drums,elevated,Reference_drums
+test_5,9,Reference,100,1,drums,elevated,Reference_drums
+test_6,10,Passive,69,1,speech,elevated,Passive_speech
+test_6,11,Passive,20,1,speech,elevated,Passive_speech
+test_6,12,Passive,87,1,speech,elevated,Passive_speech
+test_6,13,Passive,47,1,speech,elevated,Passive_speech
+test_6,14,Passive,21,1,speech,elevated,Passive_speech
+test_6,15,Passive,20,1,speech,elevated,Passive_speech
+test_6,17,Passive,43,1,speech,elevated,Passive_speech
+test_6,18,Passive,62,1,speech,elevated,Passive_speech
+test_6,19,Passive,67,1,speech,elevated,Passive_speech
+test_6,1,Passive,48,1,speech,elevated,Passive_speech
+test_6,20,Passive,61,1,speech,elevated,Passive_speech
+test_6,2,Passive,54,1,speech,elevated,Passive_speech
+test_6,3,Passive,50,1,speech,elevated,Passive_speech
+test_6,4,Passive,82,1,speech,elevated,Passive_speech
+test_6,5,Passive,67,1,speech,elevated,Passive_speech
+test_6,6,Passive,75,1,speech,elevated,Passive_speech
+test_6,7,Passive,55,1,speech,elevated,Passive_speech
+test_6,8,Passive,68,1,speech,elevated,Passive_speech
+test_6,9,Passive,40,1,speech,elevated,Passive_speech
+test_6,10,Anchor,55,1,speech,elevated,Anchor_speech
+test_6,11,Anchor,0,1,speech,elevated,Anchor_speech
+test_6,12,Anchor,6,1,speech,elevated,Anchor_speech
+test_6,13,Anchor,37,1,speech,elevated,Anchor_speech
+test_6,14,Anchor,0,1,speech,elevated,Anchor_speech
+test_6,15,Anchor,0,1,speech,elevated,Anchor_speech
+test_6,17,Anchor,0,1,speech,elevated,Anchor_speech
+test_6,18,Anchor,49,1,speech,elevated,Anchor_speech
+test_6,19,Anchor,52,1,speech,elevated,Anchor_speech
+test_6,1,Anchor,20,1,speech,elevated,Anchor_speech
+test_6,20,Anchor,22,1,speech,elevated,Anchor_speech
+test_6,2,Anchor,31,1,speech,elevated,Anchor_speech
+test_6,3,Anchor,21,1,speech,elevated,Anchor_speech
+test_6,4,Anchor,61,1,speech,elevated,Anchor_speech
+test_6,5,Anchor,58,1,speech,elevated,Anchor_speech
+test_6,6,Anchor,44,1,speech,elevated,Anchor_speech
+test_6,7,Anchor,38,1,speech,elevated,Anchor_speech
+test_6,8,Anchor,38,1,speech,elevated,Anchor_speech
+test_6,9,Anchor,39,1,speech,elevated,Anchor_speech
+test_6,10,Hybrid,87,1,speech,elevated,Hybrid_speech
+test_6,11,Hybrid,38,1,speech,elevated,Hybrid_speech
+test_6,12,Hybrid,87,1,speech,elevated,Hybrid_speech
+test_6,13,Hybrid,70,1,speech,elevated,Hybrid_speech
+test_6,14,Hybrid,61,1,speech,elevated,Hybrid_speech
+test_6,15,Hybrid,60,1,speech,elevated,Hybrid_speech
+test_6,17,Hybrid,48,1,speech,elevated,Hybrid_speech
+test_6,18,Hybrid,81,1,speech,elevated,Hybrid_speech
+test_6,19,Hybrid,84,1,speech,elevated,Hybrid_speech
+test_6,1,Hybrid,71,1,speech,elevated,Hybrid_speech
+test_6,20,Hybrid,78,1,speech,elevated,Hybrid_speech
+test_6,2,Hybrid,37,1,speech,elevated,Hybrid_speech
+test_6,3,Hybrid,80,1,speech,elevated,Hybrid_speech
+test_6,4,Hybrid,82,1,speech,elevated,Hybrid_speech
+test_6,5,Hybrid,62,1,speech,elevated,Hybrid_speech
+test_6,6,Hybrid,87,1,speech,elevated,Hybrid_speech
+test_6,7,Hybrid,30,1,speech,elevated,Hybrid_speech
+test_6,8,Hybrid,92,1,speech,elevated,Hybrid_speech
+test_6,9,Hybrid,70,1,speech,elevated,Hybrid_speech
+test_6,10,Active,87,1,speech,elevated,Active_speech
+test_6,11,Active,37,1,speech,elevated,Active_speech
+test_6,12,Active,91,1,speech,elevated,Active_speech
+test_6,13,Active,64,1,speech,elevated,Active_speech
+test_6,14,Active,81,1,speech,elevated,Active_speech
+test_6,15,Active,60,1,speech,elevated,Active_speech
+test_6,17,Active,61,1,speech,elevated,Active_speech
+test_6,18,Active,93,1,speech,elevated,Active_speech
+test_6,19,Active,87,1,speech,elevated,Active_speech
+test_6,1,Active,79,1,speech,elevated,Active_speech
+test_6,20,Active,87,1,speech,elevated,Active_speech
+test_6,2,Active,43,1,speech,elevated,Active_speech
+test_6,3,Active,96,1,speech,elevated,Active_speech
+test_6,4,Active,92,1,speech,elevated,Active_speech
+test_6,5,Active,64,1,speech,elevated,Active_speech
+test_6,6,Active,99,1,speech,elevated,Active_speech
+test_6,7,Active,53,1,speech,elevated,Active_speech
+test_6,8,Active,81,1,speech,elevated,Active_speech
+test_6,9,Active,69,1,speech,elevated,Active_speech
+test_6,10,Reference,100,1,speech,elevated,Reference_speech
+test_6,11,Reference,100,1,speech,elevated,Reference_speech
+test_6,12,Reference,100,1,speech,elevated,Reference_speech
+test_6,13,Reference,99,1,speech,elevated,Reference_speech
+test_6,14,Reference,100,1,speech,elevated,Reference_speech
+test_6,15,Reference,100,1,speech,elevated,Reference_speech
+test_6,17,Reference,100,1,speech,elevated,Reference_speech
+test_6,18,Reference,100,1,speech,elevated,Reference_speech
+test_6,19,Reference,100,1,speech,elevated,Reference_speech
+test_6,1,Reference,100,1,speech,elevated,Reference_speech
+test_6,20,Reference,100,1,speech,elevated,Reference_speech
+test_6,2,Reference,100,1,speech,elevated,Reference_speech
+test_6,3,Reference,100,1,speech,elevated,Reference_speech
+test_6,4,Reference,100,1,speech,elevated,Reference_speech
+test_6,5,Reference,100,1,speech,elevated,Reference_speech
+test_6,6,Reference,100,1,speech,elevated,Reference_speech
+test_6,7,Reference,100,1,speech,elevated,Reference_speech
+test_6,8,Reference,100,1,speech,elevated,Reference_speech
+test_6,9,Reference,100,1,speech,elevated,Reference_speech
+test_7,10,Passive,64,1,speech,elevated,Passive_speech
+test_7,11,Passive,32,1,speech,elevated,Passive_speech
+test_7,12,Passive,63,1,speech,elevated,Passive_speech
+test_7,13,Passive,53,1,speech,elevated,Passive_speech
+test_7,14,Passive,41,1,speech,elevated,Passive_speech
+test_7,15,Passive,40,1,speech,elevated,Passive_speech
+test_7,17,Passive,40,1,speech,elevated,Passive_speech
+test_7,18,Passive,75,1,speech,elevated,Passive_speech
+test_7,19,Passive,65,1,speech,elevated,Passive_speech
+test_7,1,Passive,60,1,speech,elevated,Passive_speech
+test_7,20,Passive,70,1,speech,elevated,Passive_speech
+test_7,2,Passive,36,1,speech,elevated,Passive_speech
+test_7,3,Passive,43,1,speech,elevated,Passive_speech
+test_7,4,Passive,81,1,speech,elevated,Passive_speech
+test_7,5,Passive,64,1,speech,elevated,Passive_speech
+test_7,6,Passive,61,1,speech,elevated,Passive_speech
+test_7,7,Passive,54,1,speech,elevated,Passive_speech
+test_7,8,Passive,69,1,speech,elevated,Passive_speech
+test_7,9,Passive,39,1,speech,elevated,Passive_speech
+test_7,10,Anchor,46,1,speech,elevated,Anchor_speech
+test_7,11,Anchor,0,1,speech,elevated,Anchor_speech
+test_7,12,Anchor,0,1,speech,elevated,Anchor_speech
+test_7,13,Anchor,23,1,speech,elevated,Anchor_speech
+test_7,14,Anchor,0,1,speech,elevated,Anchor_speech
+test_7,15,Anchor,0,1,speech,elevated,Anchor_speech
+test_7,17,Anchor,0,1,speech,elevated,Anchor_speech
+test_7,18,Anchor,12,1,speech,elevated,Anchor_speech
+test_7,19,Anchor,12,1,speech,elevated,Anchor_speech
+test_7,1,Anchor,31,1,speech,elevated,Anchor_speech
+test_7,20,Anchor,0,1,speech,elevated,Anchor_speech
+test_7,2,Anchor,14,1,speech,elevated,Anchor_speech
+test_7,3,Anchor,41,1,speech,elevated,Anchor_speech
+test_7,4,Anchor,38,1,speech,elevated,Anchor_speech
+test_7,5,Anchor,44,1,speech,elevated,Anchor_speech
+test_7,6,Anchor,31,1,speech,elevated,Anchor_speech
+test_7,7,Anchor,33,1,speech,elevated,Anchor_speech
+test_7,8,Anchor,44,1,speech,elevated,Anchor_speech
+test_7,9,Anchor,39,1,speech,elevated,Anchor_speech
+test_7,10,Hybrid,91,1,speech,elevated,Hybrid_speech
+test_7,11,Hybrid,72,1,speech,elevated,Hybrid_speech
+test_7,12,Hybrid,82,1,speech,elevated,Hybrid_speech
+test_7,13,Hybrid,66,1,speech,elevated,Hybrid_speech
+test_7,14,Hybrid,81,1,speech,elevated,Hybrid_speech
+test_7,15,Hybrid,61,1,speech,elevated,Hybrid_speech
+test_7,17,Hybrid,60,1,speech,elevated,Hybrid_speech
+test_7,18,Hybrid,42,1,speech,elevated,Hybrid_speech
+test_7,19,Hybrid,69,1,speech,elevated,Hybrid_speech
+test_7,1,Hybrid,89,1,speech,elevated,Hybrid_speech
+test_7,20,Hybrid,49,1,speech,elevated,Hybrid_speech
+test_7,2,Hybrid,70,1,speech,elevated,Hybrid_speech
+test_7,3,Hybrid,82,1,speech,elevated,Hybrid_speech
+test_7,4,Hybrid,81,1,speech,elevated,Hybrid_speech
+test_7,5,Hybrid,68,1,speech,elevated,Hybrid_speech
+test_7,6,Hybrid,96,1,speech,elevated,Hybrid_speech
+test_7,7,Hybrid,60,1,speech,elevated,Hybrid_speech
+test_7,8,Hybrid,92,1,speech,elevated,Hybrid_speech
+test_7,9,Hybrid,52,1,speech,elevated,Hybrid_speech
+test_7,10,Active,91,1,speech,elevated,Active_speech
+test_7,11,Active,72,1,speech,elevated,Active_speech
+test_7,12,Active,89,1,speech,elevated,Active_speech
+test_7,13,Active,65,1,speech,elevated,Active_speech
+test_7,14,Active,61,1,speech,elevated,Active_speech
+test_7,15,Active,60,1,speech,elevated,Active_speech
+test_7,17,Active,60,1,speech,elevated,Active_speech
+test_7,18,Active,59,1,speech,elevated,Active_speech
+test_7,19,Active,74,1,speech,elevated,Active_speech
+test_7,1,Active,73,1,speech,elevated,Active_speech
+test_7,20,Active,60,1,speech,elevated,Active_speech
+test_7,2,Active,70,1,speech,elevated,Active_speech
+test_7,3,Active,99,1,speech,elevated,Active_speech
+test_7,4,Active,57,1,speech,elevated,Active_speech
+test_7,5,Active,82,1,speech,elevated,Active_speech
+test_7,6,Active,88,1,speech,elevated,Active_speech
+test_7,7,Active,60,1,speech,elevated,Active_speech
+test_7,8,Active,80,1,speech,elevated,Active_speech
+test_7,9,Active,52,1,speech,elevated,Active_speech
+test_7,10,Reference,100,1,speech,elevated,Reference_speech
+test_7,11,Reference,100,1,speech,elevated,Reference_speech
+test_7,12,Reference,100,1,speech,elevated,Reference_speech
+test_7,13,Reference,100,1,speech,elevated,Reference_speech
+test_7,14,Reference,100,1,speech,elevated,Reference_speech
+test_7,15,Reference,100,1,speech,elevated,Reference_speech
+test_7,17,Reference,100,1,speech,elevated,Reference_speech
+test_7,18,Reference,100,1,speech,elevated,Reference_speech
+test_7,19,Reference,100,1,speech,elevated,Reference_speech
+test_7,1,Reference,100,1,speech,elevated,Reference_speech
+test_7,20,Reference,100,1,speech,elevated,Reference_speech
+test_7,2,Reference,100,1,speech,elevated,Reference_speech
+test_7,3,Reference,100,1,speech,elevated,Reference_speech
+test_7,4,Reference,100,1,speech,elevated,Reference_speech
+test_7,5,Reference,100,1,speech,elevated,Reference_speech
+test_7,6,Reference,100,1,speech,elevated,Reference_speech
+test_7,7,Reference,100,1,speech,elevated,Reference_speech
+test_7,8,Reference,100,1,speech,elevated,Reference_speech
+test_7,9,Reference,100,1,speech,elevated,Reference_speech
+test_8,10,Passive,57,1,drums,elevated,Passive_drums
+test_8,11,Passive,38,1,drums,elevated,Passive_drums
+test_8,12,Passive,70,1,drums,elevated,Passive_drums
+test_8,13,Passive,39,1,drums,elevated,Passive_drums
+test_8,14,Passive,41,1,drums,elevated,Passive_drums
+test_8,15,Passive,41,1,drums,elevated,Passive_drums
+test_8,17,Passive,58,1,drums,elevated,Passive_drums
+test_8,18,Passive,23,1,drums,elevated,Passive_drums
+test_8,19,Passive,78,1,drums,elevated,Passive_drums
+test_8,1,Passive,61,1,drums,elevated,Passive_drums
+test_8,20,Passive,74,1,drums,elevated,Passive_drums
+test_8,2,Passive,54,1,drums,elevated,Passive_drums
+test_8,3,Passive,41,1,drums,elevated,Passive_drums
+test_8,4,Passive,81,1,drums,elevated,Passive_drums
+test_8,5,Passive,68,1,drums,elevated,Passive_drums
+test_8,6,Passive,65,1,drums,elevated,Passive_drums
+test_8,7,Passive,48,1,drums,elevated,Passive_drums
+test_8,8,Passive,67,1,drums,elevated,Passive_drums
+test_8,9,Passive,56,1,drums,elevated,Passive_drums
+test_8,10,Anchor,52,1,drums,elevated,Anchor_drums
+test_8,11,Anchor,0,1,drums,elevated,Anchor_drums
+test_8,12,Anchor,0,1,drums,elevated,Anchor_drums
+test_8,13,Anchor,39,1,drums,elevated,Anchor_drums
+test_8,14,Anchor,0,1,drums,elevated,Anchor_drums
+test_8,15,Anchor,0,1,drums,elevated,Anchor_drums
+test_8,17,Anchor,0,1,drums,elevated,Anchor_drums
+test_8,18,Anchor,0,1,drums,elevated,Anchor_drums
+test_8,19,Anchor,64,1,drums,elevated,Anchor_drums
+test_8,1,Anchor,31,1,drums,elevated,Anchor_drums
+test_8,20,Anchor,19,1,drums,elevated,Anchor_drums
+test_8,2,Anchor,38,1,drums,elevated,Anchor_drums
+test_8,3,Anchor,28,1,drums,elevated,Anchor_drums
+test_8,4,Anchor,60,1,drums,elevated,Anchor_drums
+test_8,5,Anchor,58,1,drums,elevated,Anchor_drums
+test_8,6,Anchor,40,1,drums,elevated,Anchor_drums
+test_8,7,Anchor,30,1,drums,elevated,Anchor_drums
+test_8,8,Anchor,53,1,drums,elevated,Anchor_drums
+test_8,9,Anchor,52,1,drums,elevated,Anchor_drums
+test_8,10,Hybrid,71,1,drums,elevated,Hybrid_drums
+test_8,11,Hybrid,41,1,drums,elevated,Hybrid_drums
+test_8,12,Hybrid,81,1,drums,elevated,Hybrid_drums
+test_8,13,Hybrid,57,1,drums,elevated,Hybrid_drums
+test_8,14,Hybrid,41,1,drums,elevated,Hybrid_drums
+test_8,15,Hybrid,60,1,drums,elevated,Hybrid_drums
+test_8,17,Hybrid,50,1,drums,elevated,Hybrid_drums
+test_8,18,Hybrid,49,1,drums,elevated,Hybrid_drums
+test_8,19,Hybrid,85,1,drums,elevated,Hybrid_drums
+test_8,1,Hybrid,58,1,drums,elevated,Hybrid_drums
+test_8,20,Hybrid,79,1,drums,elevated,Hybrid_drums
+test_8,2,Hybrid,66,1,drums,elevated,Hybrid_drums
+test_8,3,Hybrid,72,1,drums,elevated,Hybrid_drums
+test_8,4,Hybrid,88,1,drums,elevated,Hybrid_drums
+test_8,5,Hybrid,60,1,drums,elevated,Hybrid_drums
+test_8,6,Hybrid,95,1,drums,elevated,Hybrid_drums
+test_8,7,Hybrid,48,1,drums,elevated,Hybrid_drums
+test_8,8,Hybrid,76,1,drums,elevated,Hybrid_drums
+test_8,9,Hybrid,60,1,drums,elevated,Hybrid_drums
+test_8,10,Active,75,1,drums,elevated,Active_drums
+test_8,11,Active,34,1,drums,elevated,Active_drums
+test_8,12,Active,92,1,drums,elevated,Active_drums
+test_8,13,Active,74,1,drums,elevated,Active_drums
+test_8,14,Active,61,1,drums,elevated,Active_drums
+test_8,15,Active,75,1,drums,elevated,Active_drums
+test_8,17,Active,70,1,drums,elevated,Active_drums
+test_8,18,Active,63,1,drums,elevated,Active_drums
+test_8,19,Active,59,1,drums,elevated,Active_drums
+test_8,1,Active,79,1,drums,elevated,Active_drums
+test_8,20,Active,60,1,drums,elevated,Active_drums
+test_8,2,Active,68,1,drums,elevated,Active_drums
+test_8,3,Active,100,1,drums,elevated,Active_drums
+test_8,4,Active,94,1,drums,elevated,Active_drums
+test_8,5,Active,89,1,drums,elevated,Active_drums
+test_8,6,Active,87,1,drums,elevated,Active_drums
+test_8,7,Active,45,1,drums,elevated,Active_drums
+test_8,8,Active,100,1,drums,elevated,Active_drums
+test_8,9,Active,63,1,drums,elevated,Active_drums
+test_8,10,Reference,100,1,drums,elevated,Reference_drums
+test_8,11,Reference,100,1,drums,elevated,Reference_drums
+test_8,12,Reference,100,1,drums,elevated,Reference_drums
+test_8,13,Reference,99,1,drums,elevated,Reference_drums
+test_8,14,Reference,100,1,drums,elevated,Reference_drums
+test_8,15,Reference,100,1,drums,elevated,Reference_drums
+test_8,17,Reference,100,1,drums,elevated,Reference_drums
+test_8,18,Reference,100,1,drums,elevated,Reference_drums
+test_8,19,Reference,100,1,drums,elevated,Reference_drums
+test_8,1,Reference,100,1,drums,elevated,Reference_drums
+test_8,20,Reference,100,1,drums,elevated,Reference_drums
+test_8,2,Reference,100,1,drums,elevated,Reference_drums
+test_8,3,Reference,100,1,drums,elevated,Reference_drums
+test_8,4,Reference,100,1,drums,elevated,Reference_drums
+test_8,5,Reference,100,1,drums,elevated,Reference_drums
+test_8,6,Reference,100,1,drums,elevated,Reference_drums
+test_8,7,Reference,100,1,drums,elevated,Reference_drums
+test_8,8,Reference,92,1,drums,elevated,Reference_drums
+test_8,9,Reference,100,1,drums,elevated,Reference_drums
+test_9,10,Passive,48,2,viola/violin,"NA",Passive_viola/violin
+test_9,11,Passive,65,2,viola/violin,"NA",Passive_viola/violin
+test_9,12,Passive,81,2,viola/violin,"NA",Passive_viola/violin
+test_9,13,Passive,58,2,viola/violin,"NA",Passive_viola/violin
+test_9,14,Passive,20,2,viola/violin,"NA",Passive_viola/violin
+test_9,15,Passive,40,2,viola/violin,"NA",Passive_viola/violin
+test_9,17,Passive,20,2,viola/violin,"NA",Passive_viola/violin
+test_9,18,Passive,50,2,viola/violin,"NA",Passive_viola/violin
+test_9,19,Passive,68,2,viola/violin,"NA",Passive_viola/violin
+test_9,1,Passive,53,2,viola/violin,"NA",Passive_viola/violin
+test_9,20,Passive,72,2,viola/violin,"NA",Passive_viola/violin
+test_9,2,Passive,53,2,viola/violin,"NA",Passive_viola/violin
+test_9,3,Passive,97,2,viola/violin,"NA",Passive_viola/violin
+test_9,4,Passive,65,2,viola/violin,"NA",Passive_viola/violin
+test_9,5,Passive,87,2,viola/violin,"NA",Passive_viola/violin
+test_9,6,Passive,75,2,viola/violin,"NA",Passive_viola/violin
+test_9,7,Passive,64,2,viola/violin,"NA",Passive_viola/violin
+test_9,8,Passive,59,2,viola/violin,"NA",Passive_viola/violin
+test_9,9,Passive,63,2,viola/violin,"NA",Passive_viola/violin
+test_9,10,Anchor,54,2,viola/violin,"NA",Anchor_viola/violin
+test_9,11,Anchor,32,2,viola/violin,"NA",Anchor_viola/violin
+test_9,12,Anchor,56,2,viola/violin,"NA",Anchor_viola/violin
+test_9,13,Anchor,43,2,viola/violin,"NA",Anchor_viola/violin
+test_9,14,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_9,15,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_9,17,Anchor,2,2,viola/violin,"NA",Anchor_viola/violin
+test_9,18,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_9,19,Anchor,3,2,viola/violin,"NA",Anchor_viola/violin
+test_9,1,Anchor,60,2,viola/violin,"NA",Anchor_viola/violin
+test_9,20,Anchor,11,2,viola/violin,"NA",Anchor_viola/violin
+test_9,2,Anchor,34,2,viola/violin,"NA",Anchor_viola/violin
+test_9,3,Anchor,44,2,viola/violin,"NA",Anchor_viola/violin
+test_9,4,Anchor,40,2,viola/violin,"NA",Anchor_viola/violin
+test_9,5,Anchor,82,2,viola/violin,"NA",Anchor_viola/violin
+test_9,6,Anchor,35,2,viola/violin,"NA",Anchor_viola/violin
+test_9,7,Anchor,8,2,viola/violin,"NA",Anchor_viola/violin
+test_9,8,Anchor,24,2,viola/violin,"NA",Anchor_viola/violin
+test_9,9,Anchor,38,2,viola/violin,"NA",Anchor_viola/violin
+test_9,10,Hybrid,100,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,11,Hybrid,86,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,12,Hybrid,81,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,13,Hybrid,68,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,14,Hybrid,71,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,15,Hybrid,59,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,17,Hybrid,69,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,18,Hybrid,74,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,19,Hybrid,92,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,1,Hybrid,80,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,20,Hybrid,80,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,2,Hybrid,74,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,3,Hybrid,99,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,4,Hybrid,80,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,5,Hybrid,100,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,6,Hybrid,95,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,7,Hybrid,74,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,8,Hybrid,88,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,9,Hybrid,85,2,viola/violin,"NA",Hybrid_viola/violin
+test_9,10,Active,65,2,viola/violin,"NA",Active_viola/violin
+test_9,11,Active,49,2,viola/violin,"NA",Active_viola/violin
+test_9,12,Active,90,2,viola/violin,"NA",Active_viola/violin
+test_9,13,Active,69,2,viola/violin,"NA",Active_viola/violin
+test_9,14,Active,89,2,viola/violin,"NA",Active_viola/violin
+test_9,15,Active,80,2,viola/violin,"NA",Active_viola/violin
+test_9,17,Active,66,2,viola/violin,"NA",Active_viola/violin
+test_9,18,Active,84,2,viola/violin,"NA",Active_viola/violin
+test_9,19,Active,85,2,viola/violin,"NA",Active_viola/violin
+test_9,1,Active,69,2,viola/violin,"NA",Active_viola/violin
+test_9,20,Active,88,2,viola/violin,"NA",Active_viola/violin
+test_9,2,Active,71,2,viola/violin,"NA",Active_viola/violin
+test_9,3,Active,100,2,viola/violin,"NA",Active_viola/violin
+test_9,4,Active,80,2,viola/violin,"NA",Active_viola/violin
+test_9,5,Active,100,2,viola/violin,"NA",Active_viola/violin
+test_9,6,Active,87,2,viola/violin,"NA",Active_viola/violin
+test_9,7,Active,72,2,viola/violin,"NA",Active_viola/violin
+test_9,8,Active,82,2,viola/violin,"NA",Active_viola/violin
+test_9,9,Active,85,2,viola/violin,"NA",Active_viola/violin
+test_9,10,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,11,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,12,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,13,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,14,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,15,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,17,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,18,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,19,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,1,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,20,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,2,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,3,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,4,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,5,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,6,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,7,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,8,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_9,9,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,10,Passive,72,2,viola/violin,"NA",Passive_viola/violin
+test_10,11,Passive,24,2,viola/violin,"NA",Passive_viola/violin
+test_10,12,Passive,70,2,viola/violin,"NA",Passive_viola/violin
+test_10,13,Passive,43,2,viola/violin,"NA",Passive_viola/violin
+test_10,14,Passive,19,2,viola/violin,"NA",Passive_viola/violin
+test_10,15,Passive,22,2,viola/violin,"NA",Passive_viola/violin
+test_10,17,Passive,48,2,viola/violin,"NA",Passive_viola/violin
+test_10,18,Passive,59,2,viola/violin,"NA",Passive_viola/violin
+test_10,19,Passive,4,2,viola/violin,"NA",Passive_viola/violin
+test_10,1,Passive,43,2,viola/violin,"NA",Passive_viola/violin
+test_10,20,Passive,41,2,viola/violin,"NA",Passive_viola/violin
+test_10,2,Passive,51,2,viola/violin,"NA",Passive_viola/violin
+test_10,3,Passive,55,2,viola/violin,"NA",Passive_viola/violin
+test_10,4,Passive,64,2,viola/violin,"NA",Passive_viola/violin
+test_10,5,Passive,49,2,viola/violin,"NA",Passive_viola/violin
+test_10,6,Passive,53,2,viola/violin,"NA",Passive_viola/violin
+test_10,7,Passive,67,2,viola/violin,"NA",Passive_viola/violin
+test_10,8,Passive,62,2,viola/violin,"NA",Passive_viola/violin
+test_10,9,Passive,50,2,viola/violin,"NA",Passive_viola/violin
+test_10,10,Anchor,29,2,viola/violin,"NA",Anchor_viola/violin
+test_10,11,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_10,12,Anchor,49,2,viola/violin,"NA",Anchor_viola/violin
+test_10,13,Anchor,24,2,viola/violin,"NA",Anchor_viola/violin
+test_10,14,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_10,15,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_10,17,Anchor,7,2,viola/violin,"NA",Anchor_viola/violin
+test_10,18,Anchor,0,2,viola/violin,"NA",Anchor_viola/violin
+test_10,19,Anchor,7,2,viola/violin,"NA",Anchor_viola/violin
+test_10,1,Anchor,30,2,viola/violin,"NA",Anchor_viola/violin
+test_10,20,Anchor,20,2,viola/violin,"NA",Anchor_viola/violin
+test_10,2,Anchor,14,2,viola/violin,"NA",Anchor_viola/violin
+test_10,3,Anchor,21,2,viola/violin,"NA",Anchor_viola/violin
+test_10,4,Anchor,40,2,viola/violin,"NA",Anchor_viola/violin
+test_10,5,Anchor,39,2,viola/violin,"NA",Anchor_viola/violin
+test_10,6,Anchor,31,2,viola/violin,"NA",Anchor_viola/violin
+test_10,7,Anchor,47,2,viola/violin,"NA",Anchor_viola/violin
+test_10,8,Anchor,14,2,viola/violin,"NA",Anchor_viola/violin
+test_10,9,Anchor,29,2,viola/violin,"NA",Anchor_viola/violin
+test_10,10,Hybrid,87,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,11,Hybrid,90,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,12,Hybrid,96,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,13,Hybrid,73,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,14,Hybrid,50,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,15,Hybrid,81,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,17,Hybrid,79,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,18,Hybrid,81,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,19,Hybrid,90,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,1,Hybrid,94,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,20,Hybrid,80,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,2,Hybrid,73,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,3,Hybrid,99,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,4,Hybrid,85,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,5,Hybrid,91,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,6,Hybrid,88,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,7,Hybrid,95,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,8,Hybrid,85,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,9,Hybrid,70,2,viola/violin,"NA",Hybrid_viola/violin
+test_10,10,Active,76,2,viola/violin,"NA",Active_viola/violin
+test_10,11,Active,94,2,viola/violin,"NA",Active_viola/violin
+test_10,12,Active,98,2,viola/violin,"NA",Active_viola/violin
+test_10,13,Active,83,2,viola/violin,"NA",Active_viola/violin
+test_10,14,Active,81,2,viola/violin,"NA",Active_viola/violin
+test_10,15,Active,100,2,viola/violin,"NA",Active_viola/violin
+test_10,17,Active,81,2,viola/violin,"NA",Active_viola/violin
+test_10,18,Active,72,2,viola/violin,"NA",Active_viola/violin
+test_10,19,Active,97,2,viola/violin,"NA",Active_viola/violin
+test_10,1,Active,89,2,viola/violin,"NA",Active_viola/violin
+test_10,20,Active,80,2,viola/violin,"NA",Active_viola/violin
+test_10,2,Active,76,2,viola/violin,"NA",Active_viola/violin
+test_10,3,Active,100,2,viola/violin,"NA",Active_viola/violin
+test_10,4,Active,83,2,viola/violin,"NA",Active_viola/violin
+test_10,5,Active,86,2,viola/violin,"NA",Active_viola/violin
+test_10,6,Active,97,2,viola/violin,"NA",Active_viola/violin
+test_10,7,Active,90,2,viola/violin,"NA",Active_viola/violin
+test_10,8,Active,89,2,viola/violin,"NA",Active_viola/violin
+test_10,9,Active,89,2,viola/violin,"NA",Active_viola/violin
+test_10,10,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,11,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,12,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,13,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,14,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,15,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,17,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,18,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,19,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,1,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,20,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,2,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,3,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,4,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,5,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,6,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,7,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,8,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_10,9,Reference,100,2,viola/violin,"NA",Reference_viola/violin
+test_11,10,Passive,50,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,11,Passive,100,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,12,Passive,88,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,13,Passive,79,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,14,Passive,40,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,15,Passive,40,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,17,Passive,39,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,18,Passive,62,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,19,Passive,90,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,1,Passive,68,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,20,Passive,40,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,2,Passive,62,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,3,Passive,100,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,4,Passive,85,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,5,Passive,100,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,6,Passive,87,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,7,Passive,88,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,8,Passive,63,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,9,Passive,81,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_11,10,Anchor,72,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,11,Anchor,16,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,12,Anchor,92,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,13,Anchor,76,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,14,Anchor,0,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,15,Anchor,0,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,17,Anchor,20,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,18,Anchor,29,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,19,Anchor,80,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,1,Anchor,42,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,20,Anchor,52,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,2,Anchor,65,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,3,Anchor,42,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,4,Anchor,41,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,5,Anchor,78,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,6,Anchor,45,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,7,Anchor,26,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,8,Anchor,57,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,9,Anchor,10,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_11,10,Hybrid,85,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,11,Hybrid,100,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,12,Hybrid,95,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,13,Hybrid,77,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,14,Hybrid,71,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,15,Hybrid,60,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,17,Hybrid,57,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,18,Hybrid,75,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,19,Hybrid,84,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,1,Hybrid,63,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,20,Hybrid,83,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,2,Hybrid,69,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,3,Hybrid,81,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,4,Hybrid,81,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,5,Hybrid,100,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,6,Hybrid,67,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,7,Hybrid,63,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,8,Hybrid,86,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,9,Hybrid,90,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_11,10,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,11,Active,22,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,12,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,13,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,14,Active,95,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,15,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,17,Active,93,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,18,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,19,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,1,Active,70,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,20,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,2,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,3,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,4,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,5,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,6,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,7,Active,94,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,8,Active,71,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,9,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_11,10,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,11,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,12,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,13,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,14,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,15,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,17,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,18,Reference,95,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,19,Reference,90,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,1,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,20,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,2,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,3,Reference,96,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,4,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,5,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,6,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,7,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,8,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_11,9,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,10,Passive,70,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,11,Passive,89,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,12,Passive,97,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,13,Passive,79,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,14,Passive,71,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,15,Passive,40,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,17,Passive,65,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,18,Passive,75,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,19,Passive,91,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,1,Passive,50,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,20,Passive,82,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,2,Passive,81,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,3,Passive,94,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,4,Passive,81,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,5,Passive,100,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,6,Passive,53,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,7,Passive,43,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,8,Passive,93,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,9,Passive,75,2,oboe/clarinet,"NA",Passive_oboe/clarinet
+test_12,10,Anchor,31,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,11,Anchor,0,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,12,Anchor,41,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,13,Anchor,56,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,14,Anchor,0,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,15,Anchor,0,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,17,Anchor,0,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,18,Anchor,19,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,19,Anchor,76,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,1,Anchor,23,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,20,Anchor,20,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,2,Anchor,67,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,3,Anchor,48,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,4,Anchor,71,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,5,Anchor,82,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,6,Anchor,43,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,7,Anchor,30,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,8,Anchor,66,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,9,Anchor,10,2,oboe/clarinet,"NA",Anchor_oboe/clarinet
+test_12,10,Hybrid,72,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,11,Hybrid,91,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,12,Hybrid,95,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,13,Hybrid,79,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,14,Hybrid,93,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,15,Hybrid,20,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,17,Hybrid,51,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,18,Hybrid,59,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,19,Hybrid,92,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,1,Hybrid,59,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,20,Hybrid,80,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,2,Hybrid,77,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,3,Hybrid,82,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,4,Hybrid,86,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,5,Hybrid,100,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,6,Hybrid,78,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,7,Hybrid,82,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,8,Hybrid,86,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,9,Hybrid,85,2,oboe/clarinet,"NA",Hybrid_oboe/clarinet
+test_12,10,Active,89,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,11,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,12,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,13,Active,88,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,14,Active,94,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,15,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,17,Active,75,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,18,Active,80,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,19,Active,89,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,1,Active,77,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,20,Active,90,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,2,Active,88,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,3,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,4,Active,77,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,5,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,6,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,7,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,8,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,9,Active,100,2,oboe/clarinet,"NA",Active_oboe/clarinet
+test_12,10,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,11,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,12,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,13,Reference,99,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,14,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,15,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,17,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,18,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,19,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,1,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,20,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,2,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,3,Reference,99,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,4,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,5,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,6,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,7,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,8,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_12,9,Reference,100,2,oboe/clarinet,"NA",Reference_oboe/clarinet
+test_13,10,Passive,50,3,pink noise,"NA",Passive_pink noise
+test_13,11,Passive,0,3,pink noise,"NA",Passive_pink noise
+test_13,12,Passive,40,3,pink noise,"NA",Passive_pink noise
+test_13,13,Passive,64,3,pink noise,"NA",Passive_pink noise
+test_13,14,Passive,0,3,pink noise,"NA",Passive_pink noise
+test_13,15,Passive,35,3,pink noise,"NA",Passive_pink noise
+test_13,17,Passive,32,3,pink noise,"NA",Passive_pink noise
+test_13,18,Passive,22,3,pink noise,"NA",Passive_pink noise
+test_13,19,Passive,30,3,pink noise,"NA",Passive_pink noise
+test_13,1,Passive,31,3,pink noise,"NA",Passive_pink noise
+test_13,20,Passive,68,3,pink noise,"NA",Passive_pink noise
+test_13,2,Passive,46,3,pink noise,"NA",Passive_pink noise
+test_13,3,Passive,53,3,pink noise,"NA",Passive_pink noise
+test_13,4,Passive,80,3,pink noise,"NA",Passive_pink noise
+test_13,5,Passive,81,3,pink noise,"NA",Passive_pink noise
+test_13,6,Passive,35,3,pink noise,"NA",Passive_pink noise
+test_13,7,Passive,50,3,pink noise,"NA",Passive_pink noise
+test_13,8,Passive,71,3,pink noise,"NA",Passive_pink noise
+test_13,9,Passive,40,3,pink noise,"NA",Passive_pink noise
+test_13,10,Anchor,45,3,pink noise,"NA",Anchor_pink noise
+test_13,11,Anchor,21,3,pink noise,"NA",Anchor_pink noise
+test_13,12,Anchor,59,3,pink noise,"NA",Anchor_pink noise
+test_13,13,Anchor,63,3,pink noise,"NA",Anchor_pink noise
+test_13,14,Anchor,0,3,pink noise,"NA",Anchor_pink noise
+test_13,15,Anchor,24,3,pink noise,"NA",Anchor_pink noise
+test_13,17,Anchor,25,3,pink noise,"NA",Anchor_pink noise
+test_13,18,Anchor,0,3,pink noise,"NA",Anchor_pink noise
+test_13,19,Anchor,53,3,pink noise,"NA",Anchor_pink noise
+test_13,1,Anchor,61,3,pink noise,"NA",Anchor_pink noise
+test_13,20,Anchor,68,3,pink noise,"NA",Anchor_pink noise
+test_13,2,Anchor,40,3,pink noise,"NA",Anchor_pink noise
+test_13,3,Anchor,47,3,pink noise,"NA",Anchor_pink noise
+test_13,4,Anchor,70,3,pink noise,"NA",Anchor_pink noise
+test_13,5,Anchor,72,3,pink noise,"NA",Anchor_pink noise
+test_13,6,Anchor,21,3,pink noise,"NA",Anchor_pink noise
+test_13,7,Anchor,40,3,pink noise,"NA",Anchor_pink noise
+test_13,8,Anchor,71,3,pink noise,"NA",Anchor_pink noise
+test_13,9,Anchor,55,3,pink noise,"NA",Anchor_pink noise
+test_13,10,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,11,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,12,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,13,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,14,Hybrid,97,3,pink noise,"NA",Hybrid_pink noise
+test_13,15,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,17,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,18,Hybrid,66,3,pink noise,"NA",Hybrid_pink noise
+test_13,19,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,1,Hybrid,95,3,pink noise,"NA",Hybrid_pink noise
+test_13,20,Hybrid,90,3,pink noise,"NA",Hybrid_pink noise
+test_13,2,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,3,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,4,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,5,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,6,Hybrid,95,3,pink noise,"NA",Hybrid_pink noise
+test_13,7,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,8,Hybrid,100,3,pink noise,"NA",Hybrid_pink noise
+test_13,9,Hybrid,78,3,pink noise,"NA",Hybrid_pink noise
+test_13,10,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,11,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,12,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,13,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,14,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,15,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,17,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,18,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,19,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,1,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,20,Active,92,3,pink noise,"NA",Active_pink noise
+test_13,2,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,3,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,4,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,5,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,6,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,7,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,8,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,9,Active,100,3,pink noise,"NA",Active_pink noise
+test_13,10,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,11,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,12,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,13,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,14,Reference,94,3,pink noise,"NA",Reference_pink noise
+test_13,15,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,17,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,18,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,19,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,1,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,20,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,2,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,3,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,4,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,5,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,6,Reference,90,3,pink noise,"NA",Reference_pink noise
+test_13,7,Reference,80,3,pink noise,"NA",Reference_pink noise
+test_13,8,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_13,9,Reference,100,3,pink noise,"NA",Reference_pink noise
+test_14,10,Passive,86,4,organ,"NA",Passive_organ
+test_14,11,Passive,55,4,organ,"NA",Passive_organ
+test_14,12,Passive,76,4,organ,"NA",Passive_organ
+test_14,13,Passive,38,4,organ,"NA",Passive_organ
+test_14,14,Passive,39,4,organ,"NA",Passive_organ
+test_14,15,Passive,40,4,organ,"NA",Passive_organ
+test_14,17,Passive,41,4,organ,"NA",Passive_organ
+test_14,18,Passive,60,4,organ,"NA",Passive_organ
+test_14,19,Passive,58,4,organ,"NA",Passive_organ
+test_14,1,Passive,20,4,organ,"NA",Passive_organ
+test_14,20,Passive,73,4,organ,"NA",Passive_organ
+test_14,2,Passive,53,4,organ,"NA",Passive_organ
+test_14,3,Passive,71,4,organ,"NA",Passive_organ
+test_14,4,Passive,64,4,organ,"NA",Passive_organ
+test_14,5,Passive,68,4,organ,"NA",Passive_organ
+test_14,6,Passive,41,4,organ,"NA",Passive_organ
+test_14,7,Passive,78,4,organ,"NA",Passive_organ
+test_14,8,Passive,42,4,organ,"NA",Passive_organ
+test_14,9,Passive,60,4,organ,"NA",Passive_organ
+test_14,10,Anchor,30,4,organ,"NA",Anchor_organ
+test_14,11,Anchor,0,4,organ,"NA",Anchor_organ
+test_14,12,Anchor,20,4,organ,"NA",Anchor_organ
+test_14,13,Anchor,52,4,organ,"NA",Anchor_organ
+test_14,14,Anchor,0,4,organ,"NA",Anchor_organ
+test_14,15,Anchor,0,4,organ,"NA",Anchor_organ
+test_14,17,Anchor,0,4,organ,"NA",Anchor_organ
+test_14,18,Anchor,0,4,organ,"NA",Anchor_organ
+test_14,19,Anchor,24,4,organ,"NA",Anchor_organ
+test_14,1,Anchor,9,4,organ,"NA",Anchor_organ
+test_14,20,Anchor,20,4,organ,"NA",Anchor_organ
+test_14,2,Anchor,20,4,organ,"NA",Anchor_organ
+test_14,3,Anchor,65,4,organ,"NA",Anchor_organ
+test_14,4,Anchor,40,4,organ,"NA",Anchor_organ
+test_14,5,Anchor,61,4,organ,"NA",Anchor_organ
+test_14,6,Anchor,28,4,organ,"NA",Anchor_organ
+test_14,7,Anchor,28,4,organ,"NA",Anchor_organ
+test_14,8,Anchor,27,4,organ,"NA",Anchor_organ
+test_14,9,Anchor,11,4,organ,"NA",Anchor_organ
+test_14,10,Hybrid,72,4,organ,"NA",Hybrid_organ
+test_14,11,Hybrid,56,4,organ,"NA",Hybrid_organ
+test_14,12,Hybrid,41,4,organ,"NA",Hybrid_organ
+test_14,13,Hybrid,39,4,organ,"NA",Hybrid_organ
+test_14,14,Hybrid,20,4,organ,"NA",Hybrid_organ
+test_14,15,Hybrid,40,4,organ,"NA",Hybrid_organ
+test_14,17,Hybrid,53,4,organ,"NA",Hybrid_organ
+test_14,18,Hybrid,39,4,organ,"NA",Hybrid_organ
+test_14,19,Hybrid,49,4,organ,"NA",Hybrid_organ
+test_14,1,Hybrid,33,4,organ,"NA",Hybrid_organ
+test_14,20,Hybrid,60,4,organ,"NA",Hybrid_organ
+test_14,2,Hybrid,37,4,organ,"NA",Hybrid_organ
+test_14,3,Hybrid,73,4,organ,"NA",Hybrid_organ
+test_14,4,Hybrid,54,4,organ,"NA",Hybrid_organ
+test_14,5,Hybrid,76,4,organ,"NA",Hybrid_organ
+test_14,6,Hybrid,60,4,organ,"NA",Hybrid_organ
+test_14,7,Hybrid,48,4,organ,"NA",Hybrid_organ
+test_14,8,Hybrid,41,4,organ,"NA",Hybrid_organ
+test_14,9,Hybrid,51,4,organ,"NA",Hybrid_organ
+test_14,10,Active,87,4,organ,"NA",Active_organ
+test_14,11,Active,66,4,organ,"NA",Active_organ
+test_14,12,Active,78,4,organ,"NA",Active_organ
+test_14,13,Active,58,4,organ,"NA",Active_organ
+test_14,14,Active,81,4,organ,"NA",Active_organ
+test_14,15,Active,61,4,organ,"NA",Active_organ
+test_14,17,Active,59,4,organ,"NA",Active_organ
+test_14,18,Active,71,4,organ,"NA",Active_organ
+test_14,19,Active,54,4,organ,"NA",Active_organ
+test_14,1,Active,53,4,organ,"NA",Active_organ
+test_14,20,Active,82,4,organ,"NA",Active_organ
+test_14,2,Active,47,4,organ,"NA",Active_organ
+test_14,3,Active,67,4,organ,"NA",Active_organ
+test_14,4,Active,90,4,organ,"NA",Active_organ
+test_14,5,Active,83,4,organ,"NA",Active_organ
+test_14,6,Active,74,4,organ,"NA",Active_organ
+test_14,7,Active,71,4,organ,"NA",Active_organ
+test_14,8,Active,74,4,organ,"NA",Active_organ
+test_14,9,Active,80,4,organ,"NA",Active_organ
+test_14,10,Reference,100,4,organ,"NA",Reference_organ
+test_14,11,Reference,100,4,organ,"NA",Reference_organ
+test_14,12,Reference,100,4,organ,"NA",Reference_organ
+test_14,13,Reference,100,4,organ,"NA",Reference_organ
+test_14,14,Reference,100,4,organ,"NA",Reference_organ
+test_14,15,Reference,100,4,organ,"NA",Reference_organ
+test_14,17,Reference,100,4,organ,"NA",Reference_organ
+test_14,18,Reference,100,4,organ,"NA",Reference_organ
+test_14,19,Reference,100,4,organ,"NA",Reference_organ
+test_14,1,Reference,100,4,organ,"NA",Reference_organ
+test_14,20,Reference,100,4,organ,"NA",Reference_organ
+test_14,2,Reference,100,4,organ,"NA",Reference_organ
+test_14,3,Reference,100,4,organ,"NA",Reference_organ
+test_14,4,Reference,100,4,organ,"NA",Reference_organ
+test_14,5,Reference,100,4,organ,"NA",Reference_organ
+test_14,6,Reference,100,4,organ,"NA",Reference_organ
+test_14,7,Reference,100,4,organ,"NA",Reference_organ
+test_14,8,Reference,100,4,organ,"NA",Reference_organ
+test_14,9,Reference,100,4,organ,"NA",Reference_organ
+test_15,10,Passive,87,4,choir,"NA",Passive_choir
+test_15,11,Passive,57,4,choir,"NA",Passive_choir
+test_15,12,Passive,68,4,choir,"NA",Passive_choir
+test_15,13,Passive,44,4,choir,"NA",Passive_choir
+test_15,14,Passive,81,4,choir,"NA",Passive_choir
+test_15,15,Passive,60,4,choir,"NA",Passive_choir
+test_15,17,Passive,61,4,choir,"NA",Passive_choir
+test_15,18,Passive,70,4,choir,"NA",Passive_choir
+test_15,19,Passive,52,4,choir,"NA",Passive_choir
+test_15,1,Passive,75,4,choir,"NA",Passive_choir
+test_15,20,Passive,89,4,choir,"NA",Passive_choir
+test_15,2,Passive,41,4,choir,"NA",Passive_choir
+test_15,3,Passive,68,4,choir,"NA",Passive_choir
+test_15,4,Passive,70,4,choir,"NA",Passive_choir
+test_15,5,Passive,88,4,choir,"NA",Passive_choir
+test_15,6,Passive,95,4,choir,"NA",Passive_choir
+test_15,7,Passive,29,4,choir,"NA",Passive_choir
+test_15,8,Passive,65,4,choir,"NA",Passive_choir
+test_15,9,Passive,50,4,choir,"NA",Passive_choir
+test_15,10,Anchor,12,4,choir,"NA",Anchor_choir
+test_15,11,Anchor,0,4,choir,"NA",Anchor_choir
+test_15,12,Anchor,9,4,choir,"NA",Anchor_choir
+test_15,13,Anchor,18,4,choir,"NA",Anchor_choir
+test_15,14,Anchor,0,4,choir,"NA",Anchor_choir
+test_15,15,Anchor,0,4,choir,"NA",Anchor_choir
+test_15,17,Anchor,0,4,choir,"NA",Anchor_choir
+test_15,18,Anchor,0,4,choir,"NA",Anchor_choir
+test_15,19,Anchor,27,4,choir,"NA",Anchor_choir
+test_15,1,Anchor,24,4,choir,"NA",Anchor_choir
+test_15,20,Anchor,20,4,choir,"NA",Anchor_choir
+test_15,2,Anchor,9,4,choir,"NA",Anchor_choir
+test_15,3,Anchor,100,4,choir,"NA",Anchor_choir
+test_15,4,Anchor,30,4,choir,"NA",Anchor_choir
+test_15,5,Anchor,51,4,choir,"NA",Anchor_choir
+test_15,6,Anchor,13,4,choir,"NA",Anchor_choir
+test_15,7,Anchor,1,4,choir,"NA",Anchor_choir
+test_15,8,Anchor,23,4,choir,"NA",Anchor_choir
+test_15,9,Anchor,30,4,choir,"NA",Anchor_choir
+test_15,10,Hybrid,53,4,choir,"NA",Hybrid_choir
+test_15,11,Hybrid,71,4,choir,"NA",Hybrid_choir
+test_15,12,Hybrid,74,4,choir,"NA",Hybrid_choir
+test_15,13,Hybrid,58,4,choir,"NA",Hybrid_choir
+test_15,14,Hybrid,71,4,choir,"NA",Hybrid_choir
+test_15,15,Hybrid,40,4,choir,"NA",Hybrid_choir
+test_15,17,Hybrid,41,4,choir,"NA",Hybrid_choir
+test_15,18,Hybrid,83,4,choir,"NA",Hybrid_choir
+test_15,19,Hybrid,64,4,choir,"NA",Hybrid_choir
+test_15,1,Hybrid,59,4,choir,"NA",Hybrid_choir
+test_15,20,Hybrid,71,4,choir,"NA",Hybrid_choir
+test_15,2,Hybrid,36,4,choir,"NA",Hybrid_choir
+test_15,3,Hybrid,100,4,choir,"NA",Hybrid_choir
+test_15,4,Hybrid,60,4,choir,"NA",Hybrid_choir
+test_15,5,Hybrid,88,4,choir,"NA",Hybrid_choir
+test_15,6,Hybrid,65,4,choir,"NA",Hybrid_choir
+test_15,7,Hybrid,42,4,choir,"NA",Hybrid_choir
+test_15,8,Hybrid,65,4,choir,"NA",Hybrid_choir
+test_15,9,Hybrid,70,4,choir,"NA",Hybrid_choir
+test_15,10,Active,54,4,choir,"NA",Active_choir
+test_15,11,Active,62,4,choir,"NA",Active_choir
+test_15,12,Active,61,4,choir,"NA",Active_choir
+test_15,13,Active,46,4,choir,"NA",Active_choir
+test_15,14,Active,66,4,choir,"NA",Active_choir
+test_15,15,Active,80,4,choir,"NA",Active_choir
+test_15,17,Active,50,4,choir,"NA",Active_choir
+test_15,18,Active,77,4,choir,"NA",Active_choir
+test_15,19,Active,56,4,choir,"NA",Active_choir
+test_15,1,Active,76,4,choir,"NA",Active_choir
+test_15,20,Active,49,4,choir,"NA",Active_choir
+test_15,2,Active,30,4,choir,"NA",Active_choir
+test_15,3,Active,81,4,choir,"NA",Active_choir
+test_15,4,Active,60,4,choir,"NA",Active_choir
+test_15,5,Active,61,4,choir,"NA",Active_choir
+test_15,6,Active,75,4,choir,"NA",Active_choir
+test_15,7,Active,87,4,choir,"NA",Active_choir
+test_15,8,Active,51,4,choir,"NA",Active_choir
+test_15,9,Active,40,4,choir,"NA",Active_choir
+test_15,10,Reference,100,4,choir,"NA",Reference_choir
+test_15,11,Reference,100,4,choir,"NA",Reference_choir
+test_15,12,Reference,100,4,choir,"NA",Reference_choir
+test_15,13,Reference,100,4,choir,"NA",Reference_choir
+test_15,14,Reference,100,4,choir,"NA",Reference_choir
+test_15,15,Reference,100,4,choir,"NA",Reference_choir
+test_15,17,Reference,100,4,choir,"NA",Reference_choir
+test_15,18,Reference,100,4,choir,"NA",Reference_choir
+test_15,19,Reference,100,4,choir,"NA",Reference_choir
+test_15,1,Reference,100,4,choir,"NA",Reference_choir
+test_15,20,Reference,100,4,choir,"NA",Reference_choir
+test_15,2,Reference,100,4,choir,"NA",Reference_choir
+test_15,3,Reference,100,4,choir,"NA",Reference_choir
+test_15,4,Reference,100,4,choir,"NA",Reference_choir
+test_15,5,Reference,100,4,choir,"NA",Reference_choir
+test_15,6,Reference,100,4,choir,"NA",Reference_choir
+test_15,7,Reference,100,4,choir,"NA",Reference_choir
+test_15,8,Reference,100,4,choir,"NA",Reference_choir
+test_15,9,Reference,100,4,choir,"NA",Reference_choir
+test_16,10,Passive,73,5,trio,"NA",Passive_trio
+test_16,11,Passive,71,5,trio,"NA",Passive_trio
+test_16,12,Passive,83,5,trio,"NA",Passive_trio
+test_16,13,Passive,67,5,trio,"NA",Passive_trio
+test_16,14,Passive,71,5,trio,"NA",Passive_trio
+test_16,15,Passive,47,5,trio,"NA",Passive_trio
+test_16,17,Passive,43,5,trio,"NA",Passive_trio
+test_16,18,Passive,73,5,trio,"NA",Passive_trio
+test_16,19,Passive,64,5,trio,"NA",Passive_trio
+test_16,1,Passive,59,5,trio,"NA",Passive_trio
+test_16,20,Passive,49,5,trio,"NA",Passive_trio
+test_16,2,Passive,35,5,trio,"NA",Passive_trio
+test_16,3,Passive,88,5,trio,"NA",Passive_trio
+test_16,4,Passive,76,5,trio,"NA",Passive_trio
+test_16,5,Passive,88,5,trio,"NA",Passive_trio
+test_16,6,Passive,73,5,trio,"NA",Passive_trio
+test_16,7,Passive,34,5,trio,"NA",Passive_trio
+test_16,8,Passive,82,5,trio,"NA",Passive_trio
+test_16,9,Passive,51,5,trio,"NA",Passive_trio
+test_16,10,Anchor,34,5,trio,"NA",Anchor_trio
+test_16,11,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,12,Anchor,3,5,trio,"NA",Anchor_trio
+test_16,13,Anchor,16,5,trio,"NA",Anchor_trio
+test_16,14,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,15,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,17,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,18,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,19,Anchor,51,5,trio,"NA",Anchor_trio
+test_16,1,Anchor,9,5,trio,"NA",Anchor_trio
+test_16,20,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,2,Anchor,14,5,trio,"NA",Anchor_trio
+test_16,3,Anchor,40,5,trio,"NA",Anchor_trio
+test_16,4,Anchor,11,5,trio,"NA",Anchor_trio
+test_16,5,Anchor,40,5,trio,"NA",Anchor_trio
+test_16,6,Anchor,12,5,trio,"NA",Anchor_trio
+test_16,7,Anchor,1,5,trio,"NA",Anchor_trio
+test_16,8,Anchor,6,5,trio,"NA",Anchor_trio
+test_16,9,Anchor,0,5,trio,"NA",Anchor_trio
+test_16,10,Hybrid,90,5,trio,"NA",Hybrid_trio
+test_16,11,Hybrid,63,5,trio,"NA",Hybrid_trio
+test_16,12,Hybrid,86,5,trio,"NA",Hybrid_trio
+test_16,13,Hybrid,51,5,trio,"NA",Hybrid_trio
+test_16,14,Hybrid,41,5,trio,"NA",Hybrid_trio
+test_16,15,Hybrid,48,5,trio,"NA",Hybrid_trio
+test_16,17,Hybrid,61,5,trio,"NA",Hybrid_trio
+test_16,18,Hybrid,61,5,trio,"NA",Hybrid_trio
+test_16,19,Hybrid,57,5,trio,"NA",Hybrid_trio
+test_16,1,Hybrid,69,5,trio,"NA",Hybrid_trio
+test_16,20,Hybrid,80,5,trio,"NA",Hybrid_trio
+test_16,2,Hybrid,50,5,trio,"NA",Hybrid_trio
+test_16,3,Hybrid,85,5,trio,"NA",Hybrid_trio
+test_16,4,Hybrid,84,5,trio,"NA",Hybrid_trio
+test_16,5,Hybrid,96,5,trio,"NA",Hybrid_trio
+test_16,6,Hybrid,78,5,trio,"NA",Hybrid_trio
+test_16,7,Hybrid,50,5,trio,"NA",Hybrid_trio
+test_16,8,Hybrid,92,5,trio,"NA",Hybrid_trio
+test_16,9,Hybrid,50,5,trio,"NA",Hybrid_trio
+test_16,10,Active,58,5,trio,"NA",Active_trio
+test_16,11,Active,76,5,trio,"NA",Active_trio
+test_16,12,Active,89,5,trio,"NA",Active_trio
+test_16,13,Active,87,5,trio,"NA",Active_trio
+test_16,14,Active,71,5,trio,"NA",Active_trio
+test_16,15,Active,48,5,trio,"NA",Active_trio
+test_16,17,Active,41,5,trio,"NA",Active_trio
+test_16,18,Active,78,5,trio,"NA",Active_trio
+test_16,19,Active,46,5,trio,"NA",Active_trio
+test_16,1,Active,56,5,trio,"NA",Active_trio
+test_16,20,Active,80,5,trio,"NA",Active_trio
+test_16,2,Active,50,5,trio,"NA",Active_trio
+test_16,3,Active,100,5,trio,"NA",Active_trio
+test_16,4,Active,83,5,trio,"NA",Active_trio
+test_16,5,Active,93,5,trio,"NA",Active_trio
+test_16,6,Active,94,5,trio,"NA",Active_trio
+test_16,7,Active,20,5,trio,"NA",Active_trio
+test_16,8,Active,84,5,trio,"NA",Active_trio
+test_16,9,Active,60,5,trio,"NA",Active_trio
+test_16,10,Reference,100,5,trio,"NA",Reference_trio
+test_16,11,Reference,100,5,trio,"NA",Reference_trio
+test_16,12,Reference,100,5,trio,"NA",Reference_trio
+test_16,13,Reference,100,5,trio,"NA",Reference_trio
+test_16,14,Reference,100,5,trio,"NA",Reference_trio
+test_16,15,Reference,100,5,trio,"NA",Reference_trio
+test_16,17,Reference,100,5,trio,"NA",Reference_trio
+test_16,18,Reference,100,5,trio,"NA",Reference_trio
+test_16,19,Reference,100,5,trio,"NA",Reference_trio
+test_16,1,Reference,100,5,trio,"NA",Reference_trio
+test_16,20,Reference,100,5,trio,"NA",Reference_trio
+test_16,2,Reference,100,5,trio,"NA",Reference_trio
+test_16,3,Reference,100,5,trio,"NA",Reference_trio
+test_16,4,Reference,100,5,trio,"NA",Reference_trio
+test_16,5,Reference,100,5,trio,"NA",Reference_trio
+test_16,6,Reference,100,5,trio,"NA",Reference_trio
+test_16,7,Reference,100,5,trio,"NA",Reference_trio
+test_16,8,Reference,100,5,trio,"NA",Reference_trio
+test_16,9,Reference,100,5,trio,"NA",Reference_trio
+test_17,10,Passive,91,5,choir,"NA",Passive_choir
+test_17,11,Passive,64,5,choir,"NA",Passive_choir
+test_17,12,Passive,97,5,choir,"NA",Passive_choir
+test_17,13,Passive,91,5,choir,"NA",Passive_choir
+test_17,14,Passive,72,5,choir,"NA",Passive_choir
+test_17,15,Passive,80,5,choir,"NA",Passive_choir
+test_17,17,Passive,81,5,choir,"NA",Passive_choir
+test_17,18,Passive,78,5,choir,"NA",Passive_choir
+test_17,19,Passive,92,5,choir,"NA",Passive_choir
+test_17,1,Passive,59,5,choir,"NA",Passive_choir
+test_17,20,Passive,100,5,choir,"NA",Passive_choir
+test_17,2,Passive,80,5,choir,"NA",Passive_choir
+test_17,3,Passive,98,5,choir,"NA",Passive_choir
+test_17,4,Passive,92,5,choir,"NA",Passive_choir
+test_17,5,Passive,93,5,choir,"NA",Passive_choir
+test_17,6,Passive,98,5,choir,"NA",Passive_choir
+test_17,7,Passive,45,5,choir,"NA",Passive_choir
+test_17,8,Passive,85,5,choir,"NA",Passive_choir
+test_17,9,Passive,80,5,choir,"NA",Passive_choir
+test_17,10,Anchor,10,5,choir,"NA",Anchor_choir
+test_17,11,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,12,Anchor,2,5,choir,"NA",Anchor_choir
+test_17,13,Anchor,14,5,choir,"NA",Anchor_choir
+test_17,14,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,15,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,17,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,18,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,19,Anchor,5,5,choir,"NA",Anchor_choir
+test_17,1,Anchor,11,5,choir,"NA",Anchor_choir
+test_17,20,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,2,Anchor,11,5,choir,"NA",Anchor_choir
+test_17,3,Anchor,43,5,choir,"NA",Anchor_choir
+test_17,4,Anchor,14,5,choir,"NA",Anchor_choir
+test_17,5,Anchor,43,5,choir,"NA",Anchor_choir
+test_17,6,Anchor,10,5,choir,"NA",Anchor_choir
+test_17,7,Anchor,1,5,choir,"NA",Anchor_choir
+test_17,8,Anchor,3,5,choir,"NA",Anchor_choir
+test_17,9,Anchor,0,5,choir,"NA",Anchor_choir
+test_17,10,Hybrid,100,5,choir,"NA",Hybrid_choir
+test_17,11,Hybrid,74,5,choir,"NA",Hybrid_choir
+test_17,12,Hybrid,91,5,choir,"NA",Hybrid_choir
+test_17,13,Hybrid,76,5,choir,"NA",Hybrid_choir
+test_17,14,Hybrid,40,5,choir,"NA",Hybrid_choir
+test_17,15,Hybrid,80,5,choir,"NA",Hybrid_choir
+test_17,17,Hybrid,45,5,choir,"NA",Hybrid_choir
+test_17,18,Hybrid,62,5,choir,"NA",Hybrid_choir
+test_17,19,Hybrid,82,5,choir,"NA",Hybrid_choir
+test_17,1,Hybrid,98,5,choir,"NA",Hybrid_choir
+test_17,20,Hybrid,60,5,choir,"NA",Hybrid_choir
+test_17,2,Hybrid,76,5,choir,"NA",Hybrid_choir
+test_17,3,Hybrid,100,5,choir,"NA",Hybrid_choir
+test_17,4,Hybrid,85,5,choir,"NA",Hybrid_choir
+test_17,5,Hybrid,80,5,choir,"NA",Hybrid_choir
+test_17,6,Hybrid,90,5,choir,"NA",Hybrid_choir
+test_17,7,Hybrid,70,5,choir,"NA",Hybrid_choir
+test_17,8,Hybrid,84,5,choir,"NA",Hybrid_choir
+test_17,9,Hybrid,65,5,choir,"NA",Hybrid_choir
+test_17,10,Active,100,5,choir,"NA",Active_choir
+test_17,11,Active,74,5,choir,"NA",Active_choir
+test_17,12,Active,94,5,choir,"NA",Active_choir
+test_17,13,Active,89,5,choir,"NA",Active_choir
+test_17,14,Active,61,5,choir,"NA",Active_choir
+test_17,15,Active,80,5,choir,"NA",Active_choir
+test_17,17,Active,82,5,choir,"NA",Active_choir
+test_17,18,Active,84,5,choir,"NA",Active_choir
+test_17,19,Active,91,5,choir,"NA",Active_choir
+test_17,1,Active,84,5,choir,"NA",Active_choir
+test_17,20,Active,81,5,choir,"NA",Active_choir
+test_17,2,Active,80,5,choir,"NA",Active_choir
+test_17,3,Active,97,5,choir,"NA",Active_choir
+test_17,4,Active,93,5,choir,"NA",Active_choir
+test_17,5,Active,93,5,choir,"NA",Active_choir
+test_17,6,Active,74,5,choir,"NA",Active_choir
+test_17,7,Active,88,5,choir,"NA",Active_choir
+test_17,8,Active,89,5,choir,"NA",Active_choir
+test_17,9,Active,80,5,choir,"NA",Active_choir
+test_17,10,Reference,100,5,choir,"NA",Reference_choir
+test_17,11,Reference,100,5,choir,"NA",Reference_choir
+test_17,12,Reference,100,5,choir,"NA",Reference_choir
+test_17,13,Reference,100,5,choir,"NA",Reference_choir
+test_17,14,Reference,100,5,choir,"NA",Reference_choir
+test_17,15,Reference,100,5,choir,"NA",Reference_choir
+test_17,17,Reference,100,5,choir,"NA",Reference_choir
+test_17,18,Reference,100,5,choir,"NA",Reference_choir
+test_17,19,Reference,100,5,choir,"NA",Reference_choir
+test_17,1,Reference,100,5,choir,"NA",Reference_choir
+test_17,20,Reference,100,5,choir,"NA",Reference_choir
+test_17,2,Reference,100,5,choir,"NA",Reference_choir
+test_17,3,Reference,100,5,choir,"NA",Reference_choir
+test_17,4,Reference,100,5,choir,"NA",Reference_choir
+test_17,5,Reference,100,5,choir,"NA",Reference_choir
+test_17,6,Reference,100,5,choir,"NA",Reference_choir
+test_17,7,Reference,100,5,choir,"NA",Reference_choir
+test_17,8,Reference,100,5,choir,"NA",Reference_choir
+test_17,9,Reference,100,5,choir,"NA",Reference_choir
+test_18,10,Passive,68,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,11,Passive,34,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,12,Passive,62,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,13,Passive,63,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,14,Passive,60,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,15,Passive,69,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,17,Passive,49,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,18,Passive,51,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,19,Passive,62,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,1,Passive,51,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,20,Passive,39,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,2,Passive,38,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,3,Passive,86,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,4,Passive,75,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,5,Passive,60,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,6,Passive,85,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,7,Passive,10,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,8,Passive,51,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,9,Passive,55,6,outdoor scene,"NA",Passive_outdoor scene
+test_18,10,Anchor,10,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,11,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,12,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,13,Anchor,38,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,14,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,15,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,17,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,18,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,19,Anchor,1,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,1,Anchor,10,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,20,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,2,Anchor,10,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,3,Anchor,21,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,4,Anchor,38,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,5,Anchor,41,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,6,Anchor,35,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,7,Anchor,1,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,8,Anchor,8,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,9,Anchor,0,6,outdoor scene,"NA",Anchor_outdoor scene
+test_18,10,Hybrid,48,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,11,Hybrid,30,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,12,Hybrid,84,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,13,Hybrid,62,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,14,Hybrid,50,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,15,Hybrid,51,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,17,Hybrid,30,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,18,Hybrid,30,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,19,Hybrid,59,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,1,Hybrid,40,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,20,Hybrid,40,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,2,Hybrid,47,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,3,Hybrid,77,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,4,Hybrid,79,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,5,Hybrid,63,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,6,Hybrid,75,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,7,Hybrid,20,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,8,Hybrid,58,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,9,Hybrid,75,6,outdoor scene,"NA",Hybrid_outdoor scene
+test_18,10,Active,86,6,outdoor scene,"NA",Active_outdoor scene
+test_18,11,Active,38,6,outdoor scene,"NA",Active_outdoor scene
+test_18,12,Active,82,6,outdoor scene,"NA",Active_outdoor scene
+test_18,13,Active,51,6,outdoor scene,"NA",Active_outdoor scene
+test_18,14,Active,69,6,outdoor scene,"NA",Active_outdoor scene
+test_18,15,Active,81,6,outdoor scene,"NA",Active_outdoor scene
+test_18,17,Active,69,6,outdoor scene,"NA",Active_outdoor scene
+test_18,18,Active,74,6,outdoor scene,"NA",Active_outdoor scene
+test_18,19,Active,78,6,outdoor scene,"NA",Active_outdoor scene
+test_18,1,Active,72,6,outdoor scene,"NA",Active_outdoor scene
+test_18,20,Active,68,6,outdoor scene,"NA",Active_outdoor scene
+test_18,2,Active,50,6,outdoor scene,"NA",Active_outdoor scene
+test_18,3,Active,79,6,outdoor scene,"NA",Active_outdoor scene
+test_18,4,Active,68,6,outdoor scene,"NA",Active_outdoor scene
+test_18,5,Active,86,6,outdoor scene,"NA",Active_outdoor scene
+test_18,6,Active,92,6,outdoor scene,"NA",Active_outdoor scene
+test_18,7,Active,30,6,outdoor scene,"NA",Active_outdoor scene
+test_18,8,Active,65,6,outdoor scene,"NA",Active_outdoor scene
+test_18,9,Active,60,6,outdoor scene,"NA",Active_outdoor scene
+test_18,10,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,11,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,12,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,13,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,14,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,15,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,17,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,18,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,19,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,1,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,20,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,2,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,3,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,4,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,5,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,6,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,7,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,8,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_18,9,Reference,100,6,outdoor scene,"NA",Reference_outdoor scene
+test_19,10,Passive,70,6,indoor scene,"NA",Passive_indoor scene
+test_19,11,Passive,100,6,indoor scene,"NA",Passive_indoor scene
+test_19,12,Passive,83,6,indoor scene,"NA",Passive_indoor scene
+test_19,13,Passive,54,6,indoor scene,"NA",Passive_indoor scene
+test_19,14,Passive,69,6,indoor scene,"NA",Passive_indoor scene
+test_19,15,Passive,70,6,indoor scene,"NA",Passive_indoor scene
+test_19,17,Passive,47,6,indoor scene,"NA",Passive_indoor scene
+test_19,18,Passive,62,6,indoor scene,"NA",Passive_indoor scene
+test_19,19,Passive,50,6,indoor scene,"NA",Passive_indoor scene
+test_19,1,Passive,88,6,indoor scene,"NA",Passive_indoor scene
+test_19,20,Passive,51,6,indoor scene,"NA",Passive_indoor scene
+test_19,2,Passive,63,6,indoor scene,"NA",Passive_indoor scene
+test_19,3,Passive,100,6,indoor scene,"NA",Passive_indoor scene
+test_19,4,Passive,82,6,indoor scene,"NA",Passive_indoor scene
+test_19,5,Passive,83,6,indoor scene,"NA",Passive_indoor scene
+test_19,6,Passive,95,6,indoor scene,"NA",Passive_indoor scene
+test_19,7,Passive,29,6,indoor scene,"NA",Passive_indoor scene
+test_19,8,Passive,88,6,indoor scene,"NA",Passive_indoor scene
+test_19,9,Passive,70,6,indoor scene,"NA",Passive_indoor scene
+test_19,10,Anchor,12,6,indoor scene,"NA",Anchor_indoor scene
+test_19,11,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,12,Anchor,1,6,indoor scene,"NA",Anchor_indoor scene
+test_19,13,Anchor,28,6,indoor scene,"NA",Anchor_indoor scene
+test_19,14,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,15,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,17,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,18,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,19,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,1,Anchor,12,6,indoor scene,"NA",Anchor_indoor scene
+test_19,20,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,2,Anchor,12,6,indoor scene,"NA",Anchor_indoor scene
+test_19,3,Anchor,28,6,indoor scene,"NA",Anchor_indoor scene
+test_19,4,Anchor,20,6,indoor scene,"NA",Anchor_indoor scene
+test_19,5,Anchor,39,6,indoor scene,"NA",Anchor_indoor scene
+test_19,6,Anchor,10,6,indoor scene,"NA",Anchor_indoor scene
+test_19,7,Anchor,1,6,indoor scene,"NA",Anchor_indoor scene
+test_19,8,Anchor,11,6,indoor scene,"NA",Anchor_indoor scene
+test_19,9,Anchor,0,6,indoor scene,"NA",Anchor_indoor scene
+test_19,10,Hybrid,50,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,11,Hybrid,64,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,12,Hybrid,74,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,13,Hybrid,56,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,14,Hybrid,56,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,15,Hybrid,70,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,17,Hybrid,53,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,18,Hybrid,72,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,19,Hybrid,49,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,1,Hybrid,65,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,20,Hybrid,71,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,2,Hybrid,70,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,3,Hybrid,100,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,4,Hybrid,51,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,5,Hybrid,81,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,6,Hybrid,85,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,7,Hybrid,55,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,8,Hybrid,76,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,9,Hybrid,60,6,indoor scene,"NA",Hybrid_indoor scene
+test_19,10,Active,93,6,indoor scene,"NA",Active_indoor scene
+test_19,11,Active,56,6,indoor scene,"NA",Active_indoor scene
+test_19,12,Active,91,6,indoor scene,"NA",Active_indoor scene
+test_19,13,Active,53,6,indoor scene,"NA",Active_indoor scene
+test_19,14,Active,65,6,indoor scene,"NA",Active_indoor scene
+test_19,15,Active,70,6,indoor scene,"NA",Active_indoor scene
+test_19,17,Active,50,6,indoor scene,"NA",Active_indoor scene
+test_19,18,Active,66,6,indoor scene,"NA",Active_indoor scene
+test_19,19,Active,56,6,indoor scene,"NA",Active_indoor scene
+test_19,1,Active,77,6,indoor scene,"NA",Active_indoor scene
+test_19,20,Active,80,6,indoor scene,"NA",Active_indoor scene
+test_19,2,Active,70,6,indoor scene,"NA",Active_indoor scene
+test_19,3,Active,86,6,indoor scene,"NA",Active_indoor scene
+test_19,4,Active,69,6,indoor scene,"NA",Active_indoor scene
+test_19,5,Active,66,6,indoor scene,"NA",Active_indoor scene
+test_19,6,Active,90,6,indoor scene,"NA",Active_indoor scene
+test_19,7,Active,55,6,indoor scene,"NA",Active_indoor scene
+test_19,8,Active,88,6,indoor scene,"NA",Active_indoor scene
+test_19,9,Active,60,6,indoor scene,"NA",Active_indoor scene
+test_19,10,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,11,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,12,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,13,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,14,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,15,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,17,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,18,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,19,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,1,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,20,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,2,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,3,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,4,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,5,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,6,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,7,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,8,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_19,9,Reference,100,6,indoor scene,"NA",Reference_indoor scene
+test_20,10,Passive,28,7,drums,"NA",Passive_drums
+test_20,11,Passive,12,7,drums,"NA",Passive_drums
+test_20,12,Passive,61,7,drums,"NA",Passive_drums
+test_20,13,Passive,31,7,drums,"NA",Passive_drums
+test_20,14,Passive,20,7,drums,"NA",Passive_drums
+test_20,15,Passive,21,7,drums,"NA",Passive_drums
+test_20,17,Passive,24,7,drums,"NA",Passive_drums
+test_20,18,Passive,30,7,drums,"NA",Passive_drums
+test_20,19,Passive,38,7,drums,"NA",Passive_drums
+test_20,1,Passive,10,7,drums,"NA",Passive_drums
+test_20,20,Passive,53,7,drums,"NA",Passive_drums
+test_20,2,Passive,46,7,drums,"NA",Passive_drums
+test_20,3,Passive,64,7,drums,"NA",Passive_drums
+test_20,4,Passive,61,7,drums,"NA",Passive_drums
+test_20,5,Passive,52,7,drums,"NA",Passive_drums
+test_20,6,Passive,56,7,drums,"NA",Passive_drums
+test_20,7,Passive,25,7,drums,"NA",Passive_drums
+test_20,8,Passive,49,7,drums,"NA",Passive_drums
+test_20,9,Passive,20,7,drums,"NA",Passive_drums
+test_20,10,Anchor,14,7,drums,"NA",Anchor_drums
+test_20,11,Anchor,0,7,drums,"NA",Anchor_drums
+test_20,12,Anchor,1,7,drums,"NA",Anchor_drums
+test_20,13,Anchor,15,7,drums,"NA",Anchor_drums
+test_20,14,Anchor,0,7,drums,"NA",Anchor_drums
+test_20,15,Anchor,0,7,drums,"NA",Anchor_drums
+test_20,17,Anchor,4,7,drums,"NA",Anchor_drums
+test_20,18,Anchor,0,7,drums,"NA",Anchor_drums
+test_20,19,Anchor,19,7,drums,"NA",Anchor_drums
+test_20,1,Anchor,3,7,drums,"NA",Anchor_drums
+test_20,20,Anchor,0,7,drums,"NA",Anchor_drums
+test_20,2,Anchor,8,7,drums,"NA",Anchor_drums
+test_20,3,Anchor,34,7,drums,"NA",Anchor_drums
+test_20,4,Anchor,22,7,drums,"NA",Anchor_drums
+test_20,5,Anchor,38,7,drums,"NA",Anchor_drums
+test_20,6,Anchor,30,7,drums,"NA",Anchor_drums
+test_20,7,Anchor,5,7,drums,"NA",Anchor_drums
+test_20,8,Anchor,10,7,drums,"NA",Anchor_drums
+test_20,9,Anchor,0,7,drums,"NA",Anchor_drums
+test_20,10,Hybrid,85,7,drums,"NA",Hybrid_drums
+test_20,11,Hybrid,85,7,drums,"NA",Hybrid_drums
+test_20,12,Hybrid,89,7,drums,"NA",Hybrid_drums
+test_20,13,Hybrid,79,7,drums,"NA",Hybrid_drums
+test_20,14,Hybrid,62,7,drums,"NA",Hybrid_drums
+test_20,15,Hybrid,79,7,drums,"NA",Hybrid_drums
+test_20,17,Hybrid,62,7,drums,"NA",Hybrid_drums
+test_20,18,Hybrid,70,7,drums,"NA",Hybrid_drums
+test_20,19,Hybrid,83,7,drums,"NA",Hybrid_drums
+test_20,1,Hybrid,67,7,drums,"NA",Hybrid_drums
+test_20,20,Hybrid,75,7,drums,"NA",Hybrid_drums
+test_20,2,Hybrid,65,7,drums,"NA",Hybrid_drums
+test_20,3,Hybrid,100,7,drums,"NA",Hybrid_drums
+test_20,4,Hybrid,81,7,drums,"NA",Hybrid_drums
+test_20,5,Hybrid,80,7,drums,"NA",Hybrid_drums
+test_20,6,Hybrid,91,7,drums,"NA",Hybrid_drums
+test_20,7,Hybrid,93,7,drums,"NA",Hybrid_drums
+test_20,8,Hybrid,77,7,drums,"NA",Hybrid_drums
+test_20,9,Hybrid,75,7,drums,"NA",Hybrid_drums
+test_20,10,Active,84,7,drums,"NA",Active_drums
+test_20,11,Active,85,7,drums,"NA",Active_drums
+test_20,12,Active,89,7,drums,"NA",Active_drums
+test_20,13,Active,92,7,drums,"NA",Active_drums
+test_20,14,Active,50,7,drums,"NA",Active_drums
+test_20,15,Active,80,7,drums,"NA",Active_drums
+test_20,17,Active,100,7,drums,"NA",Active_drums
+test_20,18,Active,74,7,drums,"NA",Active_drums
+test_20,19,Active,100,7,drums,"NA",Active_drums
+test_20,1,Active,56,7,drums,"NA",Active_drums
+test_20,20,Active,81,7,drums,"NA",Active_drums
+test_20,2,Active,65,7,drums,"NA",Active_drums
+test_20,3,Active,100,7,drums,"NA",Active_drums
+test_20,4,Active,80,7,drums,"NA",Active_drums
+test_20,5,Active,94,7,drums,"NA",Active_drums
+test_20,6,Active,98,7,drums,"NA",Active_drums
+test_20,7,Active,88,7,drums,"NA",Active_drums
+test_20,8,Active,93,7,drums,"NA",Active_drums
+test_20,9,Active,86,7,drums,"NA",Active_drums
+test_20,10,Reference,100,7,drums,"NA",Reference_drums
+test_20,11,Reference,100,7,drums,"NA",Reference_drums
+test_20,12,Reference,100,7,drums,"NA",Reference_drums
+test_20,13,Reference,100,7,drums,"NA",Reference_drums
+test_20,14,Reference,100,7,drums,"NA",Reference_drums
+test_20,15,Reference,100,7,drums,"NA",Reference_drums
+test_20,17,Reference,81,7,drums,"NA",Reference_drums
+test_20,18,Reference,100,7,drums,"NA",Reference_drums
+test_20,19,Reference,100,7,drums,"NA",Reference_drums
+test_20,1,Reference,100,7,drums,"NA",Reference_drums
+test_20,20,Reference,100,7,drums,"NA",Reference_drums
+test_20,2,Reference,100,7,drums,"NA",Reference_drums
+test_20,3,Reference,100,7,drums,"NA",Reference_drums
+test_20,4,Reference,100,7,drums,"NA",Reference_drums
+test_20,5,Reference,100,7,drums,"NA",Reference_drums
+test_20,6,Reference,100,7,drums,"NA",Reference_drums
+test_20,7,Reference,100,7,drums,"NA",Reference_drums
+test_20,8,Reference,100,7,drums,"NA",Reference_drums
+test_20,9,Reference,100,7,drums,"NA",Reference_drums
+test_21,10,Passive,64,7,drums,"NA",Passive_drums
+test_21,11,Passive,0,7,drums,"NA",Passive_drums
+test_21,12,Passive,62,7,drums,"NA",Passive_drums
+test_21,13,Passive,32,7,drums,"NA",Passive_drums
+test_21,14,Passive,0,7,drums,"NA",Passive_drums
+test_21,15,Passive,0,7,drums,"NA",Passive_drums
+test_21,17,Passive,17,7,drums,"NA",Passive_drums
+test_21,18,Passive,31,7,drums,"NA",Passive_drums
+test_21,19,Passive,17,7,drums,"NA",Passive_drums
+test_21,1,Passive,9,7,drums,"NA",Passive_drums
+test_21,20,Passive,18,7,drums,"NA",Passive_drums
+test_21,2,Passive,27,7,drums,"NA",Passive_drums
+test_21,3,Passive,21,7,drums,"NA",Passive_drums
+test_21,4,Passive,40,7,drums,"NA",Passive_drums
+test_21,5,Passive,39,7,drums,"NA",Passive_drums
+test_21,6,Passive,32,7,drums,"NA",Passive_drums
+test_21,7,Passive,40,7,drums,"NA",Passive_drums
+test_21,8,Passive,11,7,drums,"NA",Passive_drums
+test_21,9,Passive,50,7,drums,"NA",Passive_drums
+test_21,10,Anchor,54,7,drums,"NA",Anchor_drums
+test_21,11,Anchor,4,7,drums,"NA",Anchor_drums
+test_21,12,Anchor,61,7,drums,"NA",Anchor_drums
+test_21,13,Anchor,31,7,drums,"NA",Anchor_drums
+test_21,14,Anchor,9,7,drums,"NA",Anchor_drums
+test_21,15,Anchor,11,7,drums,"NA",Anchor_drums
+test_21,17,Anchor,23,7,drums,"NA",Anchor_drums
+test_21,18,Anchor,0,7,drums,"NA",Anchor_drums
+test_21,19,Anchor,11,7,drums,"NA",Anchor_drums
+test_21,1,Anchor,22,7,drums,"NA",Anchor_drums
+test_21,20,Anchor,10,7,drums,"NA",Anchor_drums
+test_21,2,Anchor,37,7,drums,"NA",Anchor_drums
+test_21,3,Anchor,23,7,drums,"NA",Anchor_drums
+test_21,4,Anchor,50,7,drums,"NA",Anchor_drums
+test_21,5,Anchor,34,7,drums,"NA",Anchor_drums
+test_21,6,Anchor,22,7,drums,"NA",Anchor_drums
+test_21,7,Anchor,48,7,drums,"NA",Anchor_drums
+test_21,8,Anchor,21,7,drums,"NA",Anchor_drums
+test_21,9,Anchor,31,7,drums,"NA",Anchor_drums
+test_21,10,Hybrid,76,7,drums,"NA",Hybrid_drums
+test_21,11,Hybrid,71,7,drums,"NA",Hybrid_drums
+test_21,12,Hybrid,82,7,drums,"NA",Hybrid_drums
+test_21,13,Hybrid,72,7,drums,"NA",Hybrid_drums
+test_21,14,Hybrid,60,7,drums,"NA",Hybrid_drums
+test_21,15,Hybrid,80,7,drums,"NA",Hybrid_drums
+test_21,17,Hybrid,68,7,drums,"NA",Hybrid_drums
+test_21,18,Hybrid,62,7,drums,"NA",Hybrid_drums
+test_21,19,Hybrid,88,7,drums,"NA",Hybrid_drums
+test_21,1,Hybrid,74,7,drums,"NA",Hybrid_drums
+test_21,20,Hybrid,80,7,drums,"NA",Hybrid_drums
+test_21,2,Hybrid,73,7,drums,"NA",Hybrid_drums
+test_21,3,Hybrid,100,7,drums,"NA",Hybrid_drums
+test_21,4,Hybrid,87,7,drums,"NA",Hybrid_drums
+test_21,5,Hybrid,82,7,drums,"NA",Hybrid_drums
+test_21,6,Hybrid,97,7,drums,"NA",Hybrid_drums
+test_21,7,Hybrid,68,7,drums,"NA",Hybrid_drums
+test_21,8,Hybrid,88,7,drums,"NA",Hybrid_drums
+test_21,9,Hybrid,80,7,drums,"NA",Hybrid_drums
+test_21,10,Active,91,7,drums,"NA",Active_drums
+test_21,11,Active,72,7,drums,"NA",Active_drums
+test_21,12,Active,82,7,drums,"NA",Active_drums
+test_21,13,Active,72,7,drums,"NA",Active_drums
+test_21,14,Active,57,7,drums,"NA",Active_drums
+test_21,15,Active,80,7,drums,"NA",Active_drums
+test_21,17,Active,59,7,drums,"NA",Active_drums
+test_21,18,Active,60,7,drums,"NA",Active_drums
+test_21,19,Active,77,7,drums,"NA",Active_drums
+test_21,1,Active,70,7,drums,"NA",Active_drums
+test_21,20,Active,100,7,drums,"NA",Active_drums
+test_21,2,Active,73,7,drums,"NA",Active_drums
+test_21,3,Active,99,7,drums,"NA",Active_drums
+test_21,4,Active,80,7,drums,"NA",Active_drums
+test_21,5,Active,89,7,drums,"NA",Active_drums
+test_21,6,Active,91,7,drums,"NA",Active_drums
+test_21,7,Active,68,7,drums,"NA",Active_drums
+test_21,8,Active,88,7,drums,"NA",Active_drums
+test_21,9,Active,80,7,drums,"NA",Active_drums
+test_21,10,Reference,100,7,drums,"NA",Reference_drums
+test_21,11,Reference,100,7,drums,"NA",Reference_drums
+test_21,12,Reference,100,7,drums,"NA",Reference_drums
+test_21,13,Reference,100,7,drums,"NA",Reference_drums
+test_21,14,Reference,100,7,drums,"NA",Reference_drums
+test_21,15,Reference,100,7,drums,"NA",Reference_drums
+test_21,17,Reference,100,7,drums,"NA",Reference_drums
+test_21,18,Reference,100,7,drums,"NA",Reference_drums
+test_21,19,Reference,100,7,drums,"NA",Reference_drums
+test_21,1,Reference,100,7,drums,"NA",Reference_drums
+test_21,20,Reference,100,7,drums,"NA",Reference_drums
+test_21,2,Reference,100,7,drums,"NA",Reference_drums
+test_21,3,Reference,100,7,drums,"NA",Reference_drums
+test_21,4,Reference,100,7,drums,"NA",Reference_drums
+test_21,5,Reference,100,7,drums,"NA",Reference_drums
+test_21,6,Reference,100,7,drums,"NA",Reference_drums
+test_21,7,Reference,100,7,drums,"NA",Reference_drums
+test_21,8,Reference,100,7,drums,"NA",Reference_drums
+test_21,9,Reference,100,7,drums,"NA",Reference_drums
+test_22,10,Passive,71,7,speech,"NA",Passive_speech
+test_22,11,Passive,48,7,speech,"NA",Passive_speech
+test_22,12,Passive,82,7,speech,"NA",Passive_speech
+test_22,13,Passive,43,7,speech,"NA",Passive_speech
+test_22,14,Passive,75,7,speech,"NA",Passive_speech
+test_22,15,Passive,60,7,speech,"NA",Passive_speech
+test_22,17,Passive,33,7,speech,"NA",Passive_speech
+test_22,18,Passive,60,7,speech,"NA",Passive_speech
+test_22,19,Passive,57,7,speech,"NA",Passive_speech
+test_22,1,Passive,50,7,speech,"NA",Passive_speech
+test_22,20,Passive,69,7,speech,"NA",Passive_speech
+test_22,2,Passive,53,7,speech,"NA",Passive_speech
+test_22,3,Passive,62,7,speech,"NA",Passive_speech
+test_22,4,Passive,89,7,speech,"NA",Passive_speech
+test_22,5,Passive,45,7,speech,"NA",Passive_speech
+test_22,6,Passive,75,7,speech,"NA",Passive_speech
+test_22,7,Passive,61,7,speech,"NA",Passive_speech
+test_22,8,Passive,77,7,speech,"NA",Passive_speech
+test_22,9,Passive,41,7,speech,"NA",Passive_speech
+test_22,10,Anchor,27,7,speech,"NA",Anchor_speech
+test_22,11,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,12,Anchor,22,7,speech,"NA",Anchor_speech
+test_22,13,Anchor,16,7,speech,"NA",Anchor_speech
+test_22,14,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,15,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,17,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,18,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,19,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,1,Anchor,11,7,speech,"NA",Anchor_speech
+test_22,20,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,2,Anchor,11,7,speech,"NA",Anchor_speech
+test_22,3,Anchor,24,7,speech,"NA",Anchor_speech
+test_22,4,Anchor,9,7,speech,"NA",Anchor_speech
+test_22,5,Anchor,39,7,speech,"NA",Anchor_speech
+test_22,6,Anchor,12,7,speech,"NA",Anchor_speech
+test_22,7,Anchor,5,7,speech,"NA",Anchor_speech
+test_22,8,Anchor,37,7,speech,"NA",Anchor_speech
+test_22,9,Anchor,0,7,speech,"NA",Anchor_speech
+test_22,10,Hybrid,87,7,speech,"NA",Hybrid_speech
+test_22,11,Hybrid,77,7,speech,"NA",Hybrid_speech
+test_22,12,Hybrid,96,7,speech,"NA",Hybrid_speech
+test_22,13,Hybrid,85,7,speech,"NA",Hybrid_speech
+test_22,14,Hybrid,71,7,speech,"NA",Hybrid_speech
+test_22,15,Hybrid,80,7,speech,"NA",Hybrid_speech
+test_22,17,Hybrid,59,7,speech,"NA",Hybrid_speech
+test_22,18,Hybrid,81,7,speech,"NA",Hybrid_speech
+test_22,19,Hybrid,87,7,speech,"NA",Hybrid_speech
+test_22,1,Hybrid,61,7,speech,"NA",Hybrid_speech
+test_22,20,Hybrid,87,7,speech,"NA",Hybrid_speech
+test_22,2,Hybrid,68,7,speech,"NA",Hybrid_speech
+test_22,3,Hybrid,64,7,speech,"NA",Hybrid_speech
+test_22,4,Hybrid,72,7,speech,"NA",Hybrid_speech
+test_22,5,Hybrid,93,7,speech,"NA",Hybrid_speech
+test_22,6,Hybrid,95,7,speech,"NA",Hybrid_speech
+test_22,7,Hybrid,50,7,speech,"NA",Hybrid_speech
+test_22,8,Hybrid,92,7,speech,"NA",Hybrid_speech
+test_22,9,Hybrid,60,7,speech,"NA",Hybrid_speech
+test_22,10,Active,68,7,speech,"NA",Active_speech
+test_22,11,Active,76,7,speech,"NA",Active_speech
+test_22,12,Active,96,7,speech,"NA",Active_speech
+test_22,13,Active,86,7,speech,"NA",Active_speech
+test_22,14,Active,82,7,speech,"NA",Active_speech
+test_22,15,Active,80,7,speech,"NA",Active_speech
+test_22,17,Active,71,7,speech,"NA",Active_speech
+test_22,18,Active,93,7,speech,"NA",Active_speech
+test_22,19,Active,77,7,speech,"NA",Active_speech
+test_22,1,Active,85,7,speech,"NA",Active_speech
+test_22,20,Active,60,7,speech,"NA",Active_speech
+test_22,2,Active,68,7,speech,"NA",Active_speech
+test_22,3,Active,66,7,speech,"NA",Active_speech
+test_22,4,Active,73,7,speech,"NA",Active_speech
+test_22,5,Active,89,7,speech,"NA",Active_speech
+test_22,6,Active,99,7,speech,"NA",Active_speech
+test_22,7,Active,93,7,speech,"NA",Active_speech
+test_22,8,Active,93,7,speech,"NA",Active_speech
+test_22,9,Active,80,7,speech,"NA",Active_speech
+test_22,10,Reference,100,7,speech,"NA",Reference_speech
+test_22,11,Reference,100,7,speech,"NA",Reference_speech
+test_22,12,Reference,100,7,speech,"NA",Reference_speech
+test_22,13,Reference,100,7,speech,"NA",Reference_speech
+test_22,14,Reference,100,7,speech,"NA",Reference_speech
+test_22,15,Reference,100,7,speech,"NA",Reference_speech
+test_22,17,Reference,100,7,speech,"NA",Reference_speech
+test_22,18,Reference,100,7,speech,"NA",Reference_speech
+test_22,19,Reference,100,7,speech,"NA",Reference_speech
+test_22,1,Reference,100,7,speech,"NA",Reference_speech
+test_22,20,Reference,100,7,speech,"NA",Reference_speech
+test_22,2,Reference,100,7,speech,"NA",Reference_speech
+test_22,3,Reference,100,7,speech,"NA",Reference_speech
+test_22,4,Reference,100,7,speech,"NA",Reference_speech
+test_22,5,Reference,100,7,speech,"NA",Reference_speech
+test_22,6,Reference,100,7,speech,"NA",Reference_speech
+test_22,7,Reference,100,7,speech,"NA",Reference_speech
+test_22,8,Reference,100,7,speech,"NA",Reference_speech
+test_22,9,Reference,100,7,speech,"NA",Reference_speech
+test_23,10,Passive,49,7,speech,"NA",Passive_speech
+test_23,11,Passive,0,7,speech,"NA",Passive_speech
+test_23,12,Passive,65,7,speech,"NA",Passive_speech
+test_23,13,Passive,25,7,speech,"NA",Passive_speech
+test_23,14,Passive,0,7,speech,"NA",Passive_speech
+test_23,15,Passive,0,7,speech,"NA",Passive_speech
+test_23,17,Passive,0,7,speech,"NA",Passive_speech
+test_23,18,Passive,0,7,speech,"NA",Passive_speech
+test_23,19,Passive,33,7,speech,"NA",Passive_speech
+test_23,1,Passive,30,7,speech,"NA",Passive_speech
+test_23,20,Passive,29,7,speech,"NA",Passive_speech
+test_23,2,Passive,14,7,speech,"NA",Passive_speech
+test_23,3,Passive,66,7,speech,"NA",Passive_speech
+test_23,4,Passive,27,7,speech,"NA",Passive_speech
+test_23,5,Passive,49,7,speech,"NA",Passive_speech
+test_23,6,Passive,38,7,speech,"NA",Passive_speech
+test_23,7,Passive,36,7,speech,"NA",Passive_speech
+test_23,8,Passive,42,7,speech,"NA",Passive_speech
+test_23,9,Passive,40,7,speech,"NA",Passive_speech
+test_23,10,Anchor,48,7,speech,"NA",Anchor_speech
+test_23,11,Anchor,5,7,speech,"NA",Anchor_speech
+test_23,12,Anchor,61,7,speech,"NA",Anchor_speech
+test_23,13,Anchor,35,7,speech,"NA",Anchor_speech
+test_23,14,Anchor,12,7,speech,"NA",Anchor_speech
+test_23,15,Anchor,40,7,speech,"NA",Anchor_speech
+test_23,17,Anchor,12,7,speech,"NA",Anchor_speech
+test_23,18,Anchor,31,7,speech,"NA",Anchor_speech
+test_23,19,Anchor,33,7,speech,"NA",Anchor_speech
+test_23,1,Anchor,51,7,speech,"NA",Anchor_speech
+test_23,20,Anchor,47,7,speech,"NA",Anchor_speech
+test_23,2,Anchor,31,7,speech,"NA",Anchor_speech
+test_23,3,Anchor,33,7,speech,"NA",Anchor_speech
+test_23,4,Anchor,49,7,speech,"NA",Anchor_speech
+test_23,5,Anchor,52,7,speech,"NA",Anchor_speech
+test_23,6,Anchor,34,7,speech,"NA",Anchor_speech
+test_23,7,Anchor,50,7,speech,"NA",Anchor_speech
+test_23,8,Anchor,48,7,speech,"NA",Anchor_speech
+test_23,9,Anchor,50,7,speech,"NA",Anchor_speech
+test_23,10,Hybrid,74,7,speech,"NA",Hybrid_speech
+test_23,11,Hybrid,76,7,speech,"NA",Hybrid_speech
+test_23,12,Hybrid,80,7,speech,"NA",Hybrid_speech
+test_23,13,Hybrid,70,7,speech,"NA",Hybrid_speech
+test_23,14,Hybrid,70,7,speech,"NA",Hybrid_speech
+test_23,15,Hybrid,79,7,speech,"NA",Hybrid_speech
+test_23,17,Hybrid,62,7,speech,"NA",Hybrid_speech
+test_23,18,Hybrid,62,7,speech,"NA",Hybrid_speech
+test_23,19,Hybrid,84,7,speech,"NA",Hybrid_speech
+test_23,1,Hybrid,70,7,speech,"NA",Hybrid_speech
+test_23,20,Hybrid,91,7,speech,"NA",Hybrid_speech
+test_23,2,Hybrid,64,7,speech,"NA",Hybrid_speech
+test_23,3,Hybrid,38,7,speech,"NA",Hybrid_speech
+test_23,4,Hybrid,81,7,speech,"NA",Hybrid_speech
+test_23,5,Hybrid,81,7,speech,"NA",Hybrid_speech
+test_23,6,Hybrid,80,7,speech,"NA",Hybrid_speech
+test_23,7,Hybrid,68,7,speech,"NA",Hybrid_speech
+test_23,8,Hybrid,94,7,speech,"NA",Hybrid_speech
+test_23,9,Hybrid,80,7,speech,"NA",Hybrid_speech
+test_23,10,Active,74,7,speech,"NA",Active_speech
+test_23,11,Active,77,7,speech,"NA",Active_speech
+test_23,12,Active,80,7,speech,"NA",Active_speech
+test_23,13,Active,83,7,speech,"NA",Active_speech
+test_23,14,Active,68,7,speech,"NA",Active_speech
+test_23,15,Active,79,7,speech,"NA",Active_speech
+test_23,17,Active,62,7,speech,"NA",Active_speech
+test_23,18,Active,62,7,speech,"NA",Active_speech
+test_23,19,Active,74,7,speech,"NA",Active_speech
+test_23,1,Active,87,7,speech,"NA",Active_speech
+test_23,20,Active,68,7,speech,"NA",Active_speech
+test_23,2,Active,64,7,speech,"NA",Active_speech
+test_23,3,Active,68,7,speech,"NA",Active_speech
+test_23,4,Active,81,7,speech,"NA",Active_speech
+test_23,5,Active,81,7,speech,"NA",Active_speech
+test_23,6,Active,80,7,speech,"NA",Active_speech
+test_23,7,Active,68,7,speech,"NA",Active_speech
+test_23,8,Active,94,7,speech,"NA",Active_speech
+test_23,9,Active,60,7,speech,"NA",Active_speech
+test_23,10,Reference,100,7,speech,"NA",Reference_speech
+test_23,11,Reference,100,7,speech,"NA",Reference_speech
+test_23,12,Reference,100,7,speech,"NA",Reference_speech
+test_23,13,Reference,100,7,speech,"NA",Reference_speech
+test_23,14,Reference,100,7,speech,"NA",Reference_speech
+test_23,15,Reference,100,7,speech,"NA",Reference_speech
+test_23,17,Reference,100,7,speech,"NA",Reference_speech
+test_23,18,Reference,100,7,speech,"NA",Reference_speech
+test_23,19,Reference,100,7,speech,"NA",Reference_speech
+test_23,1,Reference,100,7,speech,"NA",Reference_speech
+test_23,20,Reference,100,7,speech,"NA",Reference_speech
+test_23,2,Reference,100,7,speech,"NA",Reference_speech
+test_23,3,Reference,100,7,speech,"NA",Reference_speech
+test_23,4,Reference,100,7,speech,"NA",Reference_speech
+test_23,5,Reference,100,7,speech,"NA",Reference_speech
+test_23,6,Reference,100,7,speech,"NA",Reference_speech
+test_23,7,Reference,100,7,speech,"NA",Reference_speech
+test_23,8,Reference,100,7,speech,"NA",Reference_speech
+test_23,9,Reference,100,7,speech,"NA",Reference_speech
