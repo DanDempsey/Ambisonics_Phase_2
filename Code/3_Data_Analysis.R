@@ -80,7 +80,7 @@ rownames( p_vals_2w ) <- paste0( 'Section_', c(2, 4:7) )
 
 # QQ-plot of residuals
 for (i in seq_along(mm2w)) {
-  pdf(paste0("2_Two_Way/QQ_2w_", names(mm)[i], ".pdf"))
+  pdf(paste0("2_Two_Way/QQ_2w_", names(mm2w)[i], ".pdf"))
   res <- resid(mm2w[[i]])
   res_std <- ( res - mean(res) ) / sd(res)
   title_index <- as.numeric(names(mm2w)[i])
@@ -125,7 +125,7 @@ xtable( p_vals_2w_all, digits = 3 )
 
 # QQ-plot of residuals
 for (i in seq_along(mm_sec1)) {
-  pdf(paste0("Section_1/QQ_sec1_", names(mm)[i], ".pdf"))
+  pdf(paste0("Section_1/QQ_sec1_", i, ".pdf"))
   res <- resid(mm_sec1[[i]])
   res_std <- ( res - mean(res) ) / sd(res)
   plot_title <- paste0( section_titles[1], ' - ', names(mm_sec1)[i] )
@@ -165,14 +165,17 @@ aov_sec2 <- lapply(mm_sec2, anova)
 
 p_vals_sec2 <- sapply( aov_sec2, function(x) { x$'Pr(>F)' } )
 p_vals_all <- data.frame( p_vals = c( p_vals, p_vals_sec2 )[ c(1:2, 8:7, 3:6) ] )
-xtable( p_vals_all, digits = 3 )
+#xtable( p_vals_all, digits = 3 )
 
 # QQ-plot of residuals
+names( sec_2_split )
+sec2_source_name <- ifelse( names( sec_2_split ) == 'viola/violin', 
+                            'close proximity', 'diametrically opposite' )
 for (i in seq_along(mm_sec2)) {
-  pdf(paste0("Section_2/QQ_sec2_", names(mm)[i], ".pdf"))
+  pdf(paste0("Section_2/QQ_sec2_", i, ".pdf"))
   res <- resid(mm_sec2[[i]])
   res_std <- ( res - mean(res) ) / sd(res)
-  plot_title <- paste0( section_titles[2], ' - ', names(mm_sec1)[i] )
+  plot_title <- paste0( section_titles[2], ', ', sec2_source_name[i] )
   qqnorm(res_std, pch = 20, col = "blue",
          main = plot_title)
   grid()
@@ -185,7 +188,7 @@ em_sec2 <- lapply(mm_sec2, emmeans, specs = list(pairwise ~ stimulus))
 
 # Plot EMM CI's
 for (i in seq_along(em_sec2)) {
-  plot_title <- paste0( section_titles[2], ' - ', names(mm_sec1)[i] )
+  plot_title <- paste0( section_titles[2], ' - ', sec2_source_name[i] )
   plot(em_sec2[[i]]) + ggtitle(plot_title) + 
     scale_x_continuous(breaks=seq(0, 100, 20), limits = c(0, 100)) +
     xlab("Score") + ylab("Decoder")
@@ -194,10 +197,41 @@ for (i in seq_along(em_sec2)) {
 
 # Plot pairwise comparisons
 for (i in seq_along(em_sec2)) {
-  plot_title <- paste0( section_titles[2], ' - ', names(mm_sec1)[i] )
+  plot_title <- paste0( section_titles[2], ' - ', sec2_source_name[i] )
   pwpp(em_sec2[[i]]$`emmeans of stimulus`) + ggtitle(plot_title) +
     ylab("Decoder") + 
     geom_vline(xintercept = 0.01, linetype="dashed", color = "red")
   ggsave(paste0("Section_2/PWPP_sec2_", i, ".pdf"))
 }
+
+
+##### aov tables
+p_val_extract_aov <- function( x ) {
+  pw <- as.data.frame( x$`pairwise differences of stimulus` )
+  star_vec <- ifelse( pw$p.value < 0.01, '*', '' )
+  pw$display <- paste0( ifelse(pw$p.value < 0.001, '<0.001', 
+                               as.character(round(pw$p.value, 3))), star_vec )
+  y <- as.data.frame( x$`pairwise differences of stimulus` )[, c(1, 6)]
+  xtable( pw[, c(1, 7)] )
+}
+
+##### Pairwaise differences tables
+p_val_extract_pw <- function( x ) {
+  pw <- as.data.frame( x$`pairwise differences of stimulus` )
+  star_vec <- ifelse( pw$p.value < 0.01, '*', '' )
+  pw$display <- paste0( ifelse(pw$p.value < 0.001, '<0.001', 
+                        as.character(round(pw$p.value, 3))), star_vec )
+  y <- pw[, c(1, 7)]
+  colnames(y)[2] <- 'p.value'
+  xtable( y )
+}
+
+p_val_extract_pw( em_sec1$elevated )
+p_val_extract_pw( em_sec1$horizontal )
+p_val_extract_pw( em_sec2$`viola/violin` )
+p_val_extract_pw( em_sec2$`oboe/clarinet` )
+p_val_extract_pw( em_2w$`4` )
+p_val_extract_pw( em_2w$`5` )
+p_val_extract_pw( em_2w$`6` )
+p_val_extract_pw( em_2w$`7` )
 

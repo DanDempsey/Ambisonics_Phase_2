@@ -100,7 +100,7 @@ for ( i in seq_along(sec1_source) ) {
   
   #mean_vals <- sapply( split(sec_dat$result, sec_dat$stimulus_signal), mean )
   plot( 0, 0, ylim = c(0, 101), xlim = c(0.5, 10.5), 
-        main = paste0( section_titles[i], ' - ', sec1_source[i] ),
+        main = paste0( section_titles[1], ' - ', sec1_source[i] ),
         xlab = '', ylab = 'Score', xaxt = 'n', type = 'n', yaxt = 'n')
   
   abline( h = seq(0, 100, 20), lty = 3, col = 'lightgray' )
@@ -119,6 +119,7 @@ for ( i in seq_along(sec1_source) ) {
 }
 
 ### For section 2, draw boxplot within signal
+sec2_source_name <- c( 'close proximity ', 'diametrically opposite' )
 sec2_source <- na.omit( unique( filter( xp_dat, section == 2 )$signal_type ) )
 for ( i in seq_along(sec2_source) ) {
   
@@ -127,7 +128,7 @@ for ( i in seq_along(sec2_source) ) {
   sec_dat <- filter( xp_dat, (section == 2) & (signal_type == sec2_source[i]) )
   
   plot( 0, 0, ylim = c(0, 101), xlim = c(0.5, 5.5), 
-        main = paste0( section_titles[i], ' - ', sec2_source[i] ), 
+        main = paste0( section_titles[2], ', ', sec2_source_name[i] ), 
         xlab = '', ylab = 'Score', xaxt = 'n', yaxt = 'n', type = 'n')
   grid()
   boxplot( result ~ stimulus, data = sec_dat, col = mycol[3], pch = 20, 
